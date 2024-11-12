@@ -1,0 +1,433 @@
+﻿idstation;nom;adresse1;adresse2;commune;numdansarrondissement;nbbornettes;stationbonus;pole;ouverte;achevement;gid;code_insee;lon;lat
+8050;Bataille / Krüger;Face au 140, Rue Bataille;;Lyon 8e Arrondissement;;18;;bataille_kruger;True;;1;69388;4.879737377129184;45.73626799350977
+1012;Ampère / Bourse;29, Rue de la Bourse;Long du Collège-Lycée Ampère;Lyon 1er Arrondissement;12;26;;Lycée Ampère et rue de la Bourse, Métro A;True;;2;69381;4.8368957414205624;45.7658113822214
+5041;L'Homme de la Roche;Face 56, Quai Pierre Scize;;Lyon 5e Arrondissement;41;21;;Itinéraire cyclable, commerces, coeur de quartier;True;;5;69385;4.820230242298261;45.76658034430817
+26001;Saint Didier - Pasteur / Saint-Cyr;113, Rue de St Cyr;;Saint-Didier-au-Mont-d'Or;;17;; ;True;;8;69194;4.808534635343921;45.79157367507502
+6028;Récamier / Tête d'Or;10, Rue Juliette Récamier;angle rue Tête d'Or;Lyon 6e Arrondissement;28;16;;maillage;True;;9;69386;4.853492129706198;45.76433369757857
+21001;La Mulatière - Aquarium;Rue Stéphane Déchant;;La Mulatière;;24;;P1_dechant;True;;10;69142;4.814635476619837;45.7273693332942
+10021;GrandClément;Place GrandClément;171, Cours Tolstoï ;Villeurbanne;21;19;;centre quartier, futur arrêt C3, itinéraire cyclable;True;;14;69266;4.889946936317878;45.75971832074692
+10031;Croix Luizet;Face 158, Avenue Roger Salengro;;Villeurbanne;31;22;;Centre quartier;True;;15;69266;4.883497016736273;45.78064416330815
+1001;Terreaux / Terme;33, Rue Terme;Angle Rue d'Algérie;Lyon 1er Arrondissement;1;16;;;True;;17;69381;4.832135062190833;45.767734686387236
+3051;Place Henri;Place Henri;Face 5, Cours Docteur Long;Lyon 3e Arrondissement;51;13;;maillage;True;;18;69383;4.880593958171215;45.748186906192544
+8011;Place Lebret;Place Lebret;côté route de Vienne;Lyon 8e Arrondissement;11;14;;coeur quartier;True;;19;69388;4.853042654470077;45.73565038813955
+10110;Mémoire et Société;Rue Hauy;;Villeurbanne;110;24;;Mémoire et société, itinéraire cyclable;True;;20;69266;4.882734546527102;45.759574361518936
+4006;Philippe de Lassalle;Rue Philippe de Lassalle ;Angle Rue Anselme;Lyon 4e Arrondissement;6;23;;IUFM;True;Monté;22;69384;4.821307645972979;45.77348010721526
+2019;Sucrière;Place Chevalier de Saint-Georges;;Lyon 2e Arrondissement;;20;;Lyon 2ème arrondissement;True;;23;69382;4.815335028749903;45.73618158210351
+9051;Andréi Sakharov;301 avenue A.Sakharov;;Lyon 9e Arrondissement;51;12;;Stade, lycée;True;;24;69389;4.797070902331012;45.78652473936644
+7026;Baldassini / Gerland;25, Rue Jean Baldassini;;Lyon 7e Arrondissement;68;20;;baldassini_gerland;True;;25;69387;4.837382090273671;45.7276967807942
+20001;Oullins - Gare;Avenue du Rhône;Esplanade de la gare routière;Oullins;;40;;Oullins;True;;29;69149;4.8141359805783805;45.71702994350891
+2009;Confluence / Docks;41, Quai Rambaud;Rue Hrant Dink;Lyon 2e Arrondissement;9;26;;Confluence - Les Docks;True;Monté;31;69382;4.815025930643814;45.739627587350526
+9011;Conservatoire;Face 40, Quai Chauveau;avant angle Pont Général Koenig;Lyon 9e Arrondissement;11;19;;Conservatoire National de musique;True;;32;69389;4.812676219585405;45.76978221217475
+3081;Part-Dieu / Francfort;Rue Maurice Flandin;Place de Francfort;Lyon 3e Arrondissement;81;28;;Gare routière de Lyon Part-Dieu;True;Monté;35;69383;4.863086249828633;45.76060855566148
+2012;Gailleton;4, Place Gailleton;;Lyon 2e Arrondissement;12;16;; ;True;;16;69382;4.833364551802372;45.753449502638404
+7036;Gryphe / Montesquieu;37, Rue Sébastien Gryphe;Angle Rue Montesquieu;Lyon 7e Arrondissement;65;25;;Lyon 7ème arrondissement;True;;13;69387;4.843786404691111;45.751911439328126
+5009;Place Ennemond Fousseret;Quai Romain Rolland angle Quai de Bondy;Place Fousseret;Lyon 5e Arrondissement;9;16;;Vieux Lyon;True;;21;69385;4.8289833265225175;45.7646815056886
+5029;Place Gerson;Place Gerson;A proximité du Quai Pierre Size;Lyon 5e Arrondissement;29;20;;Vieux Lyon;True;;26;69385;4.8270475070640995;45.767054455158416
+5005;Saint-Paul;9, Place Saint-Paul; ;Lyon 5e Arrondissement;5;23;;Gare, coeur quartier, Vieux Lyon;True;;36;69385;4.827432122691038;45.766271737315904
+4042;Grégory Coupet;79, Rue Philippe De Lassalle;;Lyon 4e Arrondissement;42;16;;Stade;True;;40;69384;4.820600046127589;45.781700106785266
+2001;Bellecour / République;4, Place Le Viste;angle Rue de La République;Lyon 2e Arrondissement;1;18;;métro A D, site, commerces;True;;42;69382;4.834593821983846;45.757985099026186
+9009;Berlioz / Chalinel;Face 31, Rue Albert Chalinel;Rue Hector Berlioz;Lyon 9e Arrondissement;;15;;berlioz;True;;4;69389;4.825419711524732;45.80116035624908
+9032;Place du Port Mouton;Place du Port Mouton;Quai Arloing;Lyon 9e Arrondissement;32;18;; ;True;;6;69389;4.809560302964169;45.77382011796125
+6011;Mairie du 6ème;58, Rue de Sèze;angle Rue Boileau;Lyon 6e Arrondissement;11;23;;Mairie du 6e;True;;39;69386;4.849496723784585;45.76840416839016
+7023;Berthelot / Route de Vienne;Face 41, Route de Vienne;angle avenue Berthelot;Lyon 7e Arrondissement;23;15;;tram;True;;12;69387;4.850563755662176;45.74257950493406
+7009;Jean Jaurès;175, Avenue Jean Jaurès;3, Rue Marie-Madeleine Fourcade;Lyon 7e Arrondissement;9;16;;métro B;True;Monté;34;69387;4.837508919917021;45.73751809736837
+7046;Place de l'Ecole ;19, Rue de Saint-Cloud;Place de l'Ecole;Lyon 7e Arrondissement;46;28;;ENS Science ;True;;28;69387;4.827818249566896;45.73014381139959
+24001;Ecully - Mairie;Place de la Libération;Face à la Rue Auguste Tramier;Écully;;12;;deplacee place liberation;True;;43;69081;4.778672916083735;45.775089070262204
+3009;Musée Africain;Face 150, Cours Gambetta;;Lyon 3e Arrondissement;9;22;;Université Jean Moulin, musée africain, commerces;True;;44;69383;4.857925030063061;45.750253311923444
+7007;Farge / Ayasse;117, Boulevard Yves Farge;Face Rue Commandant Ayasse;Lyon 7e Arrondissement;52;20;;Centre commercial, logements, itinéraire cyclable;True;;45;69387;4.827719155961223;45.73567388979864
+10035;Boiron Granger;45, Rrue Pierre Baratin;Rue Réguillon;Villeurbanne;35;16;;stade, complexe sportif Boiron Granger;True;;46;69266;4.900479530365134;45.763158795707945
+8023;Mermoz / Pinel;Avenue Jean Mermoz;Boulevard Pinel;Lyon 8e Arrondissement;;23;;Lyon 8ème arrondissement;True;;47;69388;4.887370912680191;45.73077185091554
+4011;Place Joannès Ambre;Place Joannès Ambre;Angle grande rue de la Croix Rousse;Lyon 4e Arrondissement;11;20;;Théâtre, coeur quartier, hôpital;True;;48;69384;4.8328577220510205;45.78157551853793
+16004;Vénissieux - Parilly;Place Jules Grandclément;;Vénissieux;;25;;Vénissieux;True;;51;69259;4.888535366263417;45.71971196477412
+2015;République / Stella;1, Rue Stella;;Lyon 2e Arrondissement;15;27;;commerces, parking;True;;52;69382;4.836288972942045;45.7607097863305
+28002;Fontaines S/S - Gambetta;Place des Rendez vous;;Fontaines-sur-Saône;;20;;;True;;53;69088;4.845700000188561;45.83540599978868
+10039;Bouvier;Face 2, Rue du Professeur Emile Bouvier;Angle rue du 8 Mai 1945;Villeurbanne;39;16;;coeur quartier;True;;55;69266;4.89158095142912;45.77946431214808
+5055;Buyer / Apollinaire;103, Avenue Barthélémy Buyer;;Lyon 5e Arrondissement;55;22;;Centre commercial;True;;56;69385;4.802759890344379;45.76201329437876
+3058;Place du Lac;Place du Lac;face à la Poste;Lyon 3e Arrondissement;58;19;; ;True;;57;69383;4.853767893854473;45.75888562231748
+9050;Allée de l'Europe;228, Avenue du Plateau;;Lyon 9e Arrondissement;50;12;;Commerces, poste, mairie, cpam, marché;True;;59;69389;4.794525308499564;45.7836371650721
+7055;Servant / Jaboulay;30, Rue Renan;;Lyon 7e Arrondissement;55;16;;Métro B, future halte TER, coeur quartier, mairie;True;;62;69387;4.842050699349506;45.746766225864775
+7057;Jaurès / Bollier;218, Avenue Jean Jaurès;;Lyon 7e Arrondissement;57;34;;ENS Lettres;True;;64;69387;4.835496760764204;45.73472549025215
+10059;Anatole France / Zola;Face 145, Rue Anatole France;Angle Zola / France / Lherminier;Villeurbanne;59;13;;stade de la Viabert, Carrefour, iti. Cyclable;True;;65;69266;4.884292078824015;45.76884214158678
+8007;Frères Lumière;Rue des Frères Lumières;angle rue Villon;Lyon 8e Arrondissement;7;15;;commerces;True;;66;69388;4.866432600909935;45.74501775564335
+2035;Childebert / Rivière;2, Rue Marcel-Gabriel Rivière;Place de la République;Lyon 2e Arrondissement;35;23;;Commerces, hôtel Dieu, place, Parking;True;;69;69382;4.835798799934592;45.7598862786648
+10120;Salengro / Descartes;39, Rue Roger Salengro;;Villeurbanne;120;15;;Maillage;True;;70;69266;4.871637165235601;45.776246381101856
+6002;Porte des Enfants du Rhône;Place Général Leclerc;Le long des grilles côté ouest de la porte;Lyon 6e Arrondissement;2;40;;Parc de la Tête d'Or;True;;71;69386;4.844870726017666;45.777493295971205
+9022;Masaryk / Saint-Cyr;5, Rue Masaryk;angle Rue Chinard / Rue de Saint-Cyr;Lyon 9e Arrondissement;22;13;;maillage;True;;58;69389;4.807120028097658;45.77862889892434
+7056;Place Raspail;Place Raspail;Angle rue Basse Combalot;Lyon 7e Arrondissement;56;22;;Commerces, quartier, point nodal (Guillotière, 7e,;True;;37;69387;4.840732789966439;45.75576871406806
+3082;Saxe / Moncey;Face 119, Avenue Maréchal de Saxe;;Lyon 3e Arrondissement;82;28;;Coeur de quartier, DDE;True;;61;69383;4.846118173435003;45.75756427401703
+10117;La Perralière;166, Rue du 4 Août 1789;;Villeurbanne;117;22;;Centre de quartier, commerces;True;;63;69266;4.89235938590328;45.76456133242553
+1036;Aveyron;160, Boulevard de la Croix Rousse;;Lyon 1er Arrondissement;36;17;;Ecole, renforcement 4022;True;;67;69381;4.8328150087604635;45.77437161577287
+5004;Saint-Jean;2, Place Saint Jean;Angle rue Jean Carries;Lyon 5e Arrondissement;4;39;;funiculaire, coeur quartier, Vieux Lyon;True;;68;69385;4.82656505039726;45.760483743915145
+8015;Jean XXIII;25, Rue Maryse Bastié;;Lyon 8e Arrondissement;15;16;;Tramway, habitations;True;;41;69388;4.874194270683882;45.740325929659285
+7031;Jaurès / Gerland;45, Rue de Gerland;;Lyon 7e Arrondissement;31;20;;Complexe sportif Benjamin Delessert;True;;72;69387;4.840307388622858;45.73981323490712
+10016;Place de la paix;10, Place de la Paix;;Villeurbanne;16;17;;Maillage, espace public, centre quartier;True;;73;69266;4.914669324044022;45.752073566601524
+10011;Gratte-Ciel;174, Cours Emile Zola;Angle Rue Paul Verlaine;Villeurbanne;11;16;;métro A, itinéraire cyclable;True;;76;69266;4.880462252238262;45.76922743648424
+16002;Vénissieux - Levy - Vienne;1, Avenue du Docteur Georges Lévy;;Vénissieux;;18;;Vénissieux;True;;77;69259;4.854801576235106;45.719398805835986
+10046;Charmettes / Zola;25, Rue des Charmettes;Angle cours Emile Zola;Villeurbanne;46;23;;maillage, arrêt C3 ?;True;;50;69266;4.8673463095210945;45.770687044775286
+7011;Berthelot / Garibaldi;111, Avenue Berthelot;Rue Garibaldi;Lyon 7e Arrondissement;11;15;;tram, itinéraires cyclables;True;;78;69387;4.847368882959854;45.743711813588014
+1022;Place Tolozan;Place Tolozan;Angle nord-est de la place;Lyon 1er Arrondissement;22;36;;Opéra, Métro A, métro C, mairie centrale;True;;79;69381;4.837608436731077;45.76960058884276
+3087;Part-Dieu / Garibaldi;4, Boulevard Eugène Deruelle;;Lyon 3e Arrondissement;87;20;;Centre Commercial, bureaux, renforcement 2-003;True;;80;69383;4.852427772345072;45.76275115701257
+4003;Place Commandant Arnaud;Place Commandant Arnaud;angle rue Belfort;Lyon 4e Arrondissement;3;17;;coeur quartier;True;;81;69384;4.834707282451079;45.779725151984884
+5047;Albéric Pont;2, Rue Docteur Albéric Pont;;Lyon 5e Arrondissement;47;16;;Gymnase, Terrain de sports, collège;True;;82;69385;4.804400988845408;45.75344434357743
+10116;Blum / Faÿs;171, Rue Léon Blum;;Villeurbanne;116;16;;Square, commerces, lycée technique;True;;84;69266;4.905950974741405;45.760504000351276
+3101;Patinoire Baraban;Face 52, Rue Baraban;;Lyon 3e Arrondissement;101;20;;Patinoire, activités;True;;85;69383;4.8685003507160705;45.762051668921295
+7045;Parc des Berges;Face 40, Avenue Leclerc;;Lyon 7e Arrondissement;45;25;;Accès berges, parc, itinéraire cyclable;True;;86;69387;4.824487515709712;45.73774095870645
+23001;Tassin - Tuileries;13 Promenade des Tuileries;;Tassin-la-Demi-Lune;;12;;Tassin-la-Demi-Lune;True;;87;69244;4.778610065670553;45.76325603261275
+17002;Saint Fons - 4 chemins;Place des Quatre Chamins;Face au 47 Rue Charles Plasse;Saint-Fons;;11;;Saint-Fons;True;;89;69199;4.854861077558531;45.70844372904966
+16001;Vénissieux - Place Romand;Place Ennemond Romand;;Vénissieux;;20;;Lyon 8ème arrondissement;True;;93;69259;4.858350997738893;45.72575472713175
+3044;Quai Augagneur;Face 3, Quai Victor Augagneur;Entre Rue de Bonnel et Rue Rabelais;Lyon 3e Arrondissement;44;19;;maillage (habitat dense);True;;94;69383;4.841053430766212;45.76196513013284
+4021;Tabareau;Rue Tabareau;angle Boulevard de la Croix-Rousse;Lyon 4e Arrondissement;21;10;;IUFM ;True;;97;69384;4.825159712198365;45.77408067055172
+8006;Place du 8 mai 1945;Rue Professeur Beauvisage;Angle Rue Commandant Pégout;Lyon 8e Arrondissement;6;20;;coeur quartier, itinéraires cyclables;True;;100;69388;4.868166581349364;45.729766354618114
+7017;Beauvoir / Marot;26, Rue Simone de Beauvoir;;Lyon 7e Arrondissement;;20;;Lyon 7ème arrondissement;True;;101;69387;4.834138444502875;45.73675724822
+10030;Greuze;2, Rue Greuze;;Villeurbanne;30;18;;centre social;True;;210;69266;4.893844809557432;45.773849436808064
+10006;Charpennes;Place Charles Hernu; ;Villeurbanne;6;46;;métro A B, tram, centre quartier, itinéraire cyclable;True;;83;69266;4.863151719936048;45.77022502886978
+1021;Terreaux / Beaux Arts;8, Rue du Président Edouard Herriot;;Lyon 1er Arrondissement;21;11;;Palais des Beaux Arts;True;;99;69381;4.8342839059717155;45.767041004828314
+9015;Saint-Cyr;51t, Rue de Saint-Cyr;;Lyon 9e Arrondissement;;30;;saint_cyr_rhin;True;;104;69389;4.8073467764867095;45.78283201986297
+2040;Saint Antoine / Grenette;12, quai Saint Antoine;;Lyon 2e Arrondissement;;23;;;True;Monté;88;69382;4.832091940710831;45.763358386582404
+10054;Stalingrad / Méliès;2, Rue Georges Méliès;;Villeurbanne;54;24;;centre de congrès, bureaux;True;;103;69266;4.859523051989239;45.77669671389965
+2021;Rambaud / Ecole du Cinéma;15, Quai Rambaud;;Lyon 2e Arrondissement;;30;;Lyon 2ème arrondissement;True;;91;69382;4.817173608520145;45.74591657758103
+8052;Clinique Monplaisir;2, Avenue des Frères Lumière;;Lyon 8e Arrondissement;52;16;;Clinique, renforcement 8001;True;;96;69388;4.860190851895354;45.747082607333176
+5050;Théâtre Romain;6, Rue de l'Antiquaille;;Lyon 5e Arrondissement;50;12;;Théâtre antique, lycée;True;;98;69385;4.821086641548255;45.75836239604666
+25001;Saint Cyr;3, Rue de St-Cyr;;Saint-Cyr-au-Mont-d'Or;;12;;saint cyr saint didier;True;;106;69191;4.819601868755274;45.799791427592815
+10024;Maisons Neuves;Place des Maisons Neuves;Côté rue Jean Jaurès;Villeurbanne;24;23;;centre quartier, itinéraire cyclable;True;;108;69266;4.877413647677223;45.75596706557341
+7061;Jaurès / Université;53, Rue de l'Université;;Lyon 7e Arrondissement;61;20;;Coeur de quartier, commerces;True;;109;69387;4.843249333746807;45.748537433196155
+28001;Fontaines S/S - Quai JB Simon;Quai Jean Baptiste Simon;;Fontaines-sur-Saône;;20;; ;True;;110;69088;4.848779232683831;45.83246571834778
+4022;Place de la Croix-Rousse;Place de la Croix-Rousse;A proximité de la Grande Rue;Lyon 4e Arrondissement;22;21;;Place de le Croix-Rousse, commerces, Métro;True;;111;69384;4.832553920754393;45.7760751391037
+11002;Caluire - Saint-Clair;48 cours Aristide Briand;;Caluire-et-Cuire;2;20;;Commerces, centre de quartier;True;;112;69034;4.847842122293557;45.78547076445852
+4007;Place Flammarion;Place Flammarion;côté Rue Philippe de Lassalle;Lyon 4e Arrondissement;7;18;;maillage;True;;113;69384;4.8203031984414535;45.779326451678
+2022;Place Carnot;Place Carnot;angle rue Général Plessier;Lyon 2e Arrondissement;22;30;;Place Carnot;True;;115;69382;4.826890835486706;45.75122705219966
+11003;Caluire / La Rochette;Place de la Rochette;;Caluire-et-Cuire;3;20;;;True;;200;69034;4.823597023963748;45.79167018262126
+6033;Créqui / Lafayette;153, Rue de Créqui;Angle avec Cours Lafayette;Lyon 6e Arrondissement;;15;;Part-Dieu;True;;102;69386;4.847062000285458;45.76379601254368
+7038;Place Stalingard;Place Stalingrad;Angle avec Grande Rue de la Guillotière;Lyon 7e Arrondissement;38;13;;maillage;True;;116;69387;4.852965505015779;45.74957888107084
+10048;Place Marengo;54, Avenue Marc Sangnier;Angle Place Marengo;Villeurbanne;48;27;;coeur quartier, itinéraire cyclable;True;;118;69266;4.8759935561092;45.75914352306853
+8060;Santy / Beauvisage;Face 9, Rue Pierre Verger;Angle Rue Maryse Bastié;Lyon 8e Arrondissement;60;17;;Maillage;True;;119;69388;4.874127532610512;45.73168331489136
+27001;Collonges - Gare;2, Quai de la Libération;;Collonges-au-Mont-d'Or;;24;; ;True;;120;69063;4.846978507477477;45.830866328312354
+3012;Place du Château;Place du Château;A côté de l'Eglise;Lyon 3e Arrondissement;12;25;;coeur de quartier;True;;121;69383;4.887285723219294;45.74951707886453
+2020;Musée des Confluences;Pont Raymond Barre;Parvis du Musée des Confluences;Lyon 2e Arrondissement;20;20;;Musée des Confluences;True;;122;69382;4.818957771666686;45.73337250840419
+5031;Ménival / Joliot Curie;Rue Joliot Curie;;Lyon 5e Arrondissement;31;20;;Maillage;True;;123;69385;4.78814888398559;45.75464051154392
+2025;Mercière / Ferrandière;1, Rue Ferrandière;Angle Rue de Brest;Lyon 2e Arrondissement;25;10;;restaurants de la rue Mercière, commerces;True;;124;69382;4.833205955637977;45.7620553014955
+9008;L'Ile Barbe;3, Quai Paul Sédallian;;Lyon 9e Arrondissement;8;16;;Mairie annexe, Ile Barbe, coeur quartier, Poste, commerces;True;;126;69389;4.829046353363459;45.79741219628871
+6032;Préfecture / Sarrail;14, Quai Général Sarrail;angle rue Vauban;Lyon 6e Arrondissement;32;20;; ;True;;127;69386;4.841565471491024;45.76485827237058
+5054;Champvert;192, Avenue Barthélémy Buyer;;Lyon 5e Arrondissement;54;18;;Centre social, marché;True;;129;69385;4.792714308107987;45.76389776744211
+8035;Sans Souci;18, Rue Edouard Rochet;;Lyon 8e Arrondissement;35;20;;Métro D, Institut Lumière, Place des frères Lumière;True;;131;69388;4.865440400790833;45.74723429166505
+10123;Saint Jean / Epi de Blé;19, Rue Saint Jean;;Villeurbanne;;12;;;True;Monté;133;69266;4.9023610707870136;45.77664227160574
+2026;République / Paufique;22, Rue Louis Paufique;Angle rue de la République;Lyon 2e Arrondissement;26;28;;commerces;True;;135;69382;4.835399202281651;45.7593809563639
+34001;Neuville - Quai Pasteur;5, Quai Pasteur;Angle Place Ampère;Neuville-sur-Saône;;20;; ;True;;138;69143;4.8386237264876;45.87660899132925
+3069;Dauphiné / Saint-Maximin;10, rue du Dauphiné;;Lyon 3e Arrondissement;;30;;Lyon 3ème arrondissement;True;;139;69383;4.864650384121667;45.74994622885924
+10004;Tonkin;Rue Salvador Allende;Angle avenue du Lys Orangé, au pied de la;Villeurbanne;4;10;;centre quartier, itinéraire cyclable;True;;140;69266;4.862620625520225;45.776229075533955
+6037;Cité Internationale / Interpol;Allée Achille Lignon;Face 200, Quai Charles de Gaulle;Lyon 6e Arrondissement;37;27;;Interpol, habitations, parc;True;;130;69386;4.849355057530957;45.78227068981782
+7039;Guillotière / Madeleine;106, Grande rue de la Guillotière;Angle Rue de la Madeleine;Lyon 7e Arrondissement;39;10;;maillage;True;;128;69387;4.848048230345324;45.75105654654361
+3003;Part-Dieu / Deruelle;Boulevard Eugène Deruelle;Face rue Masséna, entrée centre commercial;Lyon 3e Arrondissement;3;30;;centre commercial;True;;125;69383;4.855076389116349;45.76300596259349
+1032;Pizay;Face 22, Rue Pizay;;Lyon 1er Arrondissement;32;22;; ;True;;107;69381;4.836391685356332;45.76720041723765
+3029;Place Aristide Briand;Face 303, Rue Duguesclin;Angle Gambetta;Lyon 3e Arrondissement;29;38;;itinéraires cyclables;True;;137;69383;4.850247427219973;45.75300435303951
+10124;Salengro / Courteline;67, Avenue roger Salengro;;Villeurbanne;;13;;;True;;134;69266;4.876458790400085;45.77689770236397
+7019;Croix Barret / Artillerie;5, Rue Croix-Barret;;Lyon 7e Arrondissement;;32;; ;True;;143;69387;4.8411520886055195;45.736790813856295
+10060;Saint Exupéry;33, Avenue Antoine de Saint Exupéry;Face Rue Raymond Terracher;Villeurbanne;60;15;;Commerces, marché, centre de quartier;True;;144;69266;4.878749576462601;45.75885897106522
+7041;Domer / Chevreul;Rue Domer;angle Rue Chevreuil;Lyon 7e Arrondissement;41;12;;MJC du 7e, itinéraire cyclable;True;;145;69387;4.8444434656856075;45.7466748285559
+7035;Marseille / Université;8, Rue de l'Université;angle Rue de Marseille;Lyon 7e Arrondissement;35;40;;tram;True;;146;69387;4.839267120718329;45.75095495120147
+8033;Berthelot / Cazeneuve;11 Rue Paul Cazeneuve;;Lyon 8e Arrondissement;;20;;cazeneuve_berthelot;True;;148;69388;4.865494312552787;45.73733371338859
+6039;Garibaldi / Vauban;Face 99, Rue Bugeaud;Place Cardinal Jean Villot;Lyon 6e Arrondissement;;20;;Lyon 6ème arrondissement;True;;150;69386;4.852085981246816;45.76669219389977
+1024;Rouville;Place Rouville;;Lyon 1er Arrondissement;24;17;;Lycée Diderot, clinique Saint Charles;True;;151;69381;4.8246123488634005;45.76966444231114
+3005;Saxe / Gambetta;1, Place Victor Basch; ;Lyon 3e Arrondissement;5;26;;métro B D;True;;155;69383;4.848042426103684;45.75378586526095
+6031;Lafayette / Corneille;64, Rue Pierre Corneille;angle Cours Lafayette;Lyon 6e Arrondissement;31;13;;maillage;True;;157;69386;4.843777340519189;45.763759478359226
+8051;Hôpital Saint-Jean de Dieu;313, Route de Vienne;;Vénissieux;51;20;;Hôpital Saint Jean de Dieu, logement colllectif;True;;132;69259;4.854176443415111;45.72414205393608
+10036;Stalingrad;123, Boulevard Stalingrad;angle rue Chaplin;Villeurbanne;36;21;;entreprises, itinéraires cyclables;True;;159;69266;4.859154585760839;45.774356828716854
+5053;Saint-Just;Face 8, Rue de Trion;;Lyon 5e Arrondissement;53;18;;Coeur de quartier, commerces, jardin public, lycée;True;;163;69385;4.818906448291973;45.75596664226247
+10111;Charles Hernu;110, Cours Vitton;;Lyon 6e Arrondissement;46;20;;Métro, Tram;True;;164;69386;4.862002498921168;45.77031052814655
+1031;Place de la Paix;Place de la Paix;En face de la poste;Lyon 1er Arrondissement;31;20;;Opéra, métro A, mairie centrale;True;;165;69381;4.831741251718418;45.768023612672
+4002;Mairie du 4e;133, Boulevard de la Croix Rousse;devant la mairie du 4ème;Lyon 4e Arrondissement;2;20;;mairie;True;;166;69384;4.827765221864178;45.774200440717294
+10073;Institut d'Art contemporain;21, Rue Docteur Dolard;Angle Rue du 4 Septembre 1797;Villeurbanne;73;25;;Nouveau Musée D'Art Contemporain;True;;168;69266;4.872465504963482;45.7614496449793
+7005;Debourg;259t, Avenue Jean Jaurès;;Lyon 7e Arrondissement;5;20;;Métro B, ENS lettres, bibliothèque;True;;169;69387;4.833961794123208;45.731753554835215
+3011;Part-Dieu / Cuirassiers;Rue des Cuirassiers;angle Rue Bouchut;Lyon 3e Arrondissement;10;59;;centre commercial, bibliothèque de la Part-Dieu;True;;170;69383;4.857573031414216;45.759897651252786
+3006;Villette / St-Antoine;Face 1, Rue Saint Antoine;angle avec rue de la Villette;Lyon 3e Arrondissement;;23;;Lyon 3ème arrondissement;True;;171;69383;4.862286900087199;45.7628598509097
+5015;Fulchiron;4, Quai Fulchiron;;Lyon 5e Arrondissement;15;19;;maillage;True;;172;69385;4.821661798351627;45.75200117696068
+3138;Vivier Merle / Paul Bert Ouest;Face 65, Boulevard Vivier Merle;angle rue Paul Bert;Lyon 3e Arrondissement;138;19;;CAFAL;True;Monté;173;69383;4.858512237399373;45.75733931311515
+7014;Marseille / Félissent;3, Rue Félissent;angle Rue de Marseille;Lyon 7e Arrondissement;14;30;;maillage;True;;154;69387;4.841415287461779;45.75298634352899
+9042;Vaise Docks;Face 50, Rue des Docks;;Lyon 9e Arrondissement;42;19;;Complexe cinéma Pathé;True;Monté;158;69389;4.811476181120188;45.786557895292454
+2030;République / Poulaillerie;20, Rue de la Poulaillerie;Angle Poulaillerie / République;Lyon 2e Arrondissement;30;32;;commerces, palais de la bourse;True;;161;69382;4.8356127348451565;45.764078281257845
+2028;Sainte-Blandine;60, Cours Charlemagne;face station tram Ste Blandine;Lyon 2e Arrondissement;28;16;;tram;True;;153;69382;4.822142870439611;45.74442230143973
+10038;Condorcet;Face 74, Boulevard du 11 Novembre 1918;Croisement Tram;Villeurbanne;38;23;;tram, itinéraire cyclable;True;;141;69266;4.866862900995372;45.77903057466618
+10102;Doua / Gaston Berger;24, Avenue Gaston Berger;;Villeurbanne;102;30;;Tramway, itinéraires cyclabels, amphis;True;;147;69266;4.871207714608578;45.78098478165094
+7024;Bancel / Chevreul;Rue Bancel;Rue Chevreul;Lyon 7e Arrondissement;24;21;;Itinéraire cyclable;True;;176;69387;4.840524571672516;45.74852028674798
+7022;Jaurès / Lagrange;105, Avenue Jean Jaurès;;Lyon 7e Arrondissement;22;30;;Piste cyclable, commerces;True;;177;69387;4.841424444852924;45.74391432692689
+9033;Gorge de Loup;49 bis Esplanade Lina Cretet ;Rue Sergent Michel Berthet;Lyon 9e Arrondissement;33;40;; Lycée professionnel;True;;178;69389;4.805627699519279;45.76736547853642
+10118;Voyant / Chambord;92, Rue Voyant;;Villeurbanne;118;22;;Commerces, centre social;True;;182;69266;4.900599099512037;45.767191415027256
+8025;Dumont / Jouvet;16, Rueue Santos Dumont;;Lyon 8e Arrondissement;25;17;;maillage;True;;183;69388;4.860887175144378;45.74444617982907
+2013;Célestins;Face 2, Place des Célestins;Côté nord de la place, vers l'ascenseur;Lyon 2e Arrondissement;13;22;;théâtre;True;;184;69382;4.832071611386379;45.7599398326071
+10015;Poudrette / Musset;112, Rue de la Poudrette;;Villeurbanne;;18;;;True;;185;69266;4.921141711792207;45.757882954088885
+10061;République;103, cours Emile Zola ; ;Villeurbanne;61;17;;métro;True;;186;69266;4.8726157733046405;45.77084230811873
+2017;République / Ferrandière;Face 30, Rue Ferrandière;Angle Rue de la République;Lyon 2e Arrondissement;17;25;;métro A, commerces;True;;187;69382;4.835970693686822;45.76217399703886
+1016;Pêcherie;6, Rue de la Platière;Angle Quai de la Pêcherie;Lyon 1er Arrondissement;16;17;;bouquinistes;True;;188;69381;4.831178124644486;45.765954730052314
+10075;Gabriel Péri;Rue Gabriel Péri;Angle cours André Philip;Villeurbanne;75;12;; ;True;;189;69266;4.865760645813551;45.772303350496884
+3038;Vivier Merle / Paul Bert Est;65, Boulevard Vivier Merle;angle rue Paul Bert;Lyon 3e Arrondissement;38;20;;CAFAL;True;Monté;193;69383;4.858908367370051;45.757231415252484
+3097;Augagneur / Fosse aux Ours;28, Quai Victor Augagneur;;Lyon 3e Arrondissement;97;40;;Commerces, quartier, point nodal (Guillotière, 7e,;True;;195;69383;4.840499137542491;45.75719970234391
+3066;Kimmerling - Faure;139, Avenue Félix Faure;;Lyon 3e Arrondissement;66;19;;Bureaux, habitat, collège;True;;199;69383;4.863464101960399;45.75430081007711
+6008;Place Jules Ferry;17, Rue des Emeraudes;Place Jules Ferry;Lyon 6e Arrondissement;8;20;;Métro, parking, place, restaurants;True;;196;69386;4.859070556738344;45.7684122613938
+12005;Place Boissier;7, Place Boissier;;Vaulx-en-Velin;;20;;;True;;181;69256;4.926872984219631;45.78626834360841
+10089;Colin / Perroncel;22, Rue colin;;Villeurbanne;89;15;;Commerces, Itinéraire Cyclable;True;;201;69266;4.8740523266943345;45.77449846469076
+8030;Laënnec;Rue Nungesser et Coli;25, Rue Laënnec;Lyon 8e Arrondissement;30;16;;fac, tram;True;;202;69388;4.879723163759173;45.74134872300852
+10055;Condorcet / Galline;Face 16, Avenue Galline;Angle avenue de Condorcet;Villeurbanne;55;15;;maillage (habitat dense);True;;205;69266;4.86708711115082;45.77639544847652
+5030;Charcot / Résidence universitaire;Face 30, Rue Cdt Charcot;Angle Fort St Irénée/rue Cdt Charcot;Lyon 5e Arrondissement;30;32;;Résidence universitaire, marché;True;;207;69385;4.807785054151946;45.75503108866266
+3007;Place d'Arsonval;Place d'Arsonval;A côté du stand de fleurs;Lyon 3e Arrondissement;7;32;;hôpital Herriot, métro D, tram, fac de pharmacie;True;;208;69383;4.878920616442839;45.74341567680107
+2039;Charité / Récamier;86, Rue de la Charité;;Lyon 2e Arrondissement;39;17;;Lycée, tramway, commerces;True;;209;69382;4.829844125752032;45.749253395508795
+8001;Université Lyon III;1, Rue du Professeur Rollet;Devant entrée principale université Lyon 3;Lyon 8e Arrondissement;1;36;;Université Lyon 3;True;;175;69388;4.861541779364256;45.74853956627726
+7053;Jaurès / Thibaudière;Face 27, Rue de la Thibaudière;Angle Avenue Jean Jaurès;Lyon 7e Arrondissement;53;28;;Maillage;True;;206;69387;4.845048253499639;45.750344797591346
+3008;Institut Lumière;Cours Albert Thomas;;Lyon 3e Arrondissement;8;18;;Métro, coeur quartier, institut Lumière, marché;True;;198;69383;4.870638710650287;45.74583323374609
+5040;Place Benoit Crépu;127, Quai Fulchiron;;Lyon 5e Arrondissement;40;20;;Vieux Lyon, Parking;True;;190;69385;4.826105451692288;45.75784167965563
+6041;Cité Internationale - Tête d'Or Nord;Allée Achille Lignon;;Lyon 6e Arrondissement;41;22;;Parc, Amphithéâtre;True;;179;69386;4.859758362412491;45.78457290578509
+10005;11 novembre;1, Boulevard du 11 Novembre 1918;Entrée parc;Villeurbanne;5;35;;Parc Tête d'Or, itinéraire cyclable;True;;191;69266;4.860008593899982;45.779693707850846
+2042;Joffre / Vaubecour;43, Rue Vaubecour;;Lyon 2e Arrondissement;42;20;;Centre-ville, entrée zone 30;True;;180;69382;4.82475558921832;45.75186933643942
+6021;Garibaldi;46, Rue Garibaldi;angle rue Crillon;Lyon 6e Arrondissement;21;11;;commerces (ATAC);True;;211;69386;4.849935729364381;45.7706974838637
+7015;Techsud;Face 2, Rue Professeur Jean Bernard;angle du Boulevard Chambaud de la Bruyère;Lyon 7e Arrondissement;66;12;;;True;;212;69387;4.8426881110123965;45.72279362231216
+5036;La Salette;104, Rue Commandant Charcot;;Lyon 5e Arrondissement;32;15;;Habitations, commerces;True;;213;69385;4.795531093165858;45.7496172708063
+16005;Vénissieux - Gare;122b Avenue Jules Guesde;;Vénissieux;;25;;Vénissieux;True;;214;69259;4.88702481170959;45.708533972113074
+9013;Quai Paul Sédaillan;52, Quai Paul Sédallan;;Lyon 9e Arrondissement;13;20;;pôle d'activité (Cegid, Infogrammes);True;;216;69389;4.814421127849675;45.787509756748456
+12001;Vaulx - La Soie;Rue de la Poudrette;;Vaulx-en-Velin;1;25;;Pôle multimodal de la Soie;True;;217;69256;4.9206039456886055;45.7608131947003
+22001;Sainte Foy - Place Saint-Luc;Place Saint-Luc;;Sainte-Foy-lès-Lyon;;15;;Sainte-Foy-lès-Lyon;True;;220;69202;4.800896024092041;45.74956540522228
+2024;République / Maupin;9, Rue Maupin;Angle Rue Président Edouard Herriot;Lyon 2e Arrondissement;24;25;;commerces;True;;223;69382;4.8340765154131455;45.75873908221122
+10113;Gare de Villeurbanne;52, Rue du Poizat;;Villeurbanne;113;22;;Tramway, maillage;True;;224;69266;4.891530167671847;45.755764271974854
+4012;Place Adrien Godien;38, Cours d'Herbouville;Terre plein central;Lyon 4e Arrondissement;12;30;;maillage;True;;227;69384;4.841069562210997;45.77876757733165
+8029;Etats-Unis / Lévigne;78, Boulevard des Etats-Unis;Angle Rue Emile Combes et Rue Théodore Lévigne;Lyon 8e Arrondissement;29;20;;Commerce, habitat, école, tramway T4;True;;229;69388;4.865141536736715;45.732218010677144
+13001;Décines - Centre;27, Rue Emile Bertrand;;Décines-Charpieu;;20;;Meyzieu (T3);True;;230;69275;4.955766787611089;45.771873329654014
+2002;Bellecour / Saint Exupéry;Face 34, Place Bellecour;côté Rue Paul Lintier;Lyon 2e Arrondissement;2;40;;métro A D, site, commerces;True;;232;69382;4.830434694909472;45.75815691094956
+7030;Quartier Général Frère;31, Boulevard Yves Farge;;Lyon 7e Arrondissement;30;30;;Parc d'activités, logement, projet cyclable;True;;234;69387;4.834168875074644;45.74316454195516
+10114;Bel Air / Les Brosses;Avenue de Bel Air;;Villeurbanne;114;20;;Tramway, piste cyclable;True;;236;69266;4.9107987932571575;45.757914350722814
+30001;Rillieux - Canellas;18 route de Genève;;Rillieux-la-Pape;;12;;Place canellas;True;;237;69286;4.884733879310547;45.80504380778307
+8008;Beauvisage / Préssensé;159, Rue Rrofesseur Beauvisage;;Lyon 8e Arrondissement;8;17;;itinéraires cyclables;True;;238;69388;4.863442058905264;45.72787185590096
+10001;IUT - Feyssine;Face 102, Rue de la Technologie;;Villeurbanne;1;30;;IUT, tramway;True;;354;69266;4.882357799897009;45.785647144157814
+9029;Saint Pierre de Vaise;Place Vanderpol;angle Rue Saint-Pierre de Vaise;Lyon 9e Arrondissement;29;15;;coeur de quartier;True;;204;69389;4.807813722264596;45.77309957255047
+3034;Garibaldi / Pensionnat;52, Rue du Pensionnat;;Lyon 3e Arrondissement;104;30;;Lyon 3ème arrondissement;True;;240;69383;4.853404447409928;45.75470656426703
+10087;Baratin;76, Rue Pierre Baratin;;Villeurbanne;87;12;;Terrain de sport, quartier;True;;241;69266;4.9006968059950955;45.76059899709916
+10008;Salengro / Vaillant;108, Rue Roger salengro;;Villeurbanne;8;24;;centre quartier, itinéraire cyclable;True;;242;69266;4.879673281300416;45.77836820802221
+10014;Laurent Bonnevay / Astroballe;Rue du Sytral;;Villeurbanne;14;28;;Gare, métro;True;;243;69266;4.9098182197044355;45.76512405537271
+3071;BioParc;60, Avenue Rockefeller;;Lyon 3e Arrondissement;71;20;;Pôle d'habitation, Bio Parc, Faculté de Médecine;True;;245;69383;4.888082507593352;45.740486003484605
+2041;Sala / Charité;41, Rue Sala;;Lyon 2e Arrondissement;41;21;;Centre-ville;True;;233;69382;4.833039251668663;45.75446619561804
+6035;Cité Internationale;Quai Charles de Gaulle;Face parvis palais des congrés;Lyon 6e Arrondissement;35;21;;Cinéma, casino, palais des congrés;True;;218;69386;4.854124072710764;45.78542142497967
+10032;Primat / Decorps;Angle rue Emile Decorps / Rue Max Barel;;Villeurbanne;32;13;;Pôle Pixel;True;Monté;228;69266;4.899993150913253;45.75711841532476
+1020;Terreaux / Chenavard;11, Rue Chenavard;Côté place des Terreaux;Lyon 1er Arrondissement;20;18;;Place des Terreaux;True;;239;69381;4.83293148796597;45.76676710458034
+7006;Gerland;Face 317, Avenue Jean Jaurès;Square du Professeur Galtier;Lyon 7e Arrondissement;6;40;;Métro B, Stade de Gerland;True;;221;69387;4.831197482195625;45.727573284843196
+2005;Confluence Hôtel de Région;101, Cours Charlemagne;Esplanade François Miterrand;Lyon 2e Arrondissement;5;32;;Hôtel de Région - Tram Montrochet - Pôle de loisirs;True;;215;69382;4.819179518436808;45.74053831522134
+8004;Mairie du 8e;12, Avenue Jean Mermoz;;Lyon 8e Arrondissement;4;21;;Mairie du 8e;True;;235;69388;4.872817387536045;45.735150995807906
+3103;Place Danton;4, Place Danton;Angle Rue Danton;Lyon 3e Arrondissement;103;18;;Commerces, bureau;True;;246;69383;4.857574372601033;45.75481244853283
+10088;4 août 1789 / Pressensé;243, Cours Emile Zola;;Villeurbanne;88;19;;maillage;True;;249;69266;4.898610485416707;45.76607553015395
+3015;Servient / Garibaldi;Face 112, Rue Servient;Place Charles de Gaulle;Lyon 3e Arrondissement;15;32;;tram, cité administrative;True;;250;69383;4.852678990647336;45.76077741317111
+4001;Conservatoire bis;1, Quai Joseph Gillet;;Lyon 1er Arrondissement;1;22;;Conservatoire, logements;True;;253;69381;4.814245667423702;45.770389430239355
+5045;Valdo / Rivet;Rue Jeunet;;Lyon 5e Arrondissement;45;18;;Maillage;True;;255;69385;4.788774121103122;45.75048148344842
+3036;Félix Faure / Vivier Merle;Face 106, Avenue Félix Faure;;Lyon 3e Arrondissement;36;35;;;True;;256;69383;4.859855894129365;45.75381490563945
+3035;Philomène Magnin;3, Rue Philomène Magnin;;Lyon 3e Arrondissement;;24;;buire_vivier_merle;True;;260;69383;4.858740196109376;45.7526134281632
+7025;Lacour / Artillerie;Rue Challemel Larcour;;Lyon 7e Arrondissement;67;20;;;True;;261;69387;4.844177872010189;45.72945512661453
+4024;Lyon Métropole;Face au 84, Quai Joseph Gillet ;150 mètres au sud de la Rue du Bois de la Caille ;Lyon 4e Arrondissement;24;25;;;True;;262;69384;4.818560286672529;45.78817001884096
+10091;Château Gaillard / Fort;28, Rue Louis Fort;;Villeurbanne;91;16;;maillage;True;;265;69266;4.887971317287408;45.77474953644127
+1006;Subsistances;14 quai Saint Vincent;;Lyon 1er Arrondissement;6;22;;Les Subsistances;True;;267;69381;4.819816657420369;45.767895769494274
+32001;Couzon - Centre;Quai Jean Lavergne;;Couzon-au-Mont-d'Or;;17;; ;True;;268;69068;4.83241213375528;45.845997686774574
+10045;Anatole France / Alsace;24 Rue Anatole France;;Villeurbanne;;20;;Villeurbanne;True;;269;69266;4.870161396008619;45.76690539202143
+9010;Piscine de Vaise;52, Rue Sidoine Apollinaire;;Lyon 9e Arrondissement;10;19;;Piscine d'hiver de Vaise;True;;271;69389;4.796450348757553;45.77101828846886
+4009;Jacquart / Denfert-Rochereau;Rue Denfert-Rochereau;angle Rue Jacquard;Lyon 4e Arrondissement;9;14;;maillage;True;;272;69384;4.82537896207112;45.775899511231145
+19001;Saint Genis Laval - Médiathèque;49 Avenue Gorges Clémenceau;;Saint-Genis-Laval;;12;;dtgenis_lyon_sud;True;;273;69204;4.794772849716076;45.69781200190445
+5008;Sainte-Irénée;Place Sainte Irénée;Rue des Chevaucheurs;Lyon 5e Arrondissement;8;20;;Place, résidence universitaire;True;;274;69385;4.812421224845746;45.75494588109138
+33001;Albigny - Gare;Place de la Gare;;Albigny-sur-Saône;;18;; ;True;;276;69003;4.833002136082279;45.87499349255458
+9046;Mangini;12, Rue Félix Mangini;Face au n°9;Lyon 9e Arrondissement;;24;;plasson_chaize;True;;277;69389;4.816349391794238;45.79040880714802
+8059;Laënnec / Pinel;Rue Paradin;;Lyon 8e Arrondissement;59;15;;Jardin public;True;;278;69388;4.889538926369418;45.73537251126738
+9049;Sergent Berthet / Gorge de Loup;3, Rue Gorge de Loup;;Lyon 9e Arrondissement;49;16;;Commerces, coeur de quartier;True;;258;69389;4.805158003014948;45.77013407203493
+10121;Parc du Centre;34, Rue Billon;Angle Rue Fancis de Préssencé;Villeurbanne;121;16;;Parc du centre, itinéraire cyclable;True;;264;69266;4.879070706781902;45.77191192526643
+3068;Faure / Meynis;202, Avenue Félix Faure;;Lyon 3e Arrondissement;;28;;;True;Monté;282;69383;4.871397338154996;45.75506054727825
+2038;Remparts d'Ainay;15, Rue des Remparts d'Ainay;;Lyon 2e Arrondissement;;24;;;True;;263;69382;4.829807144832727;45.75308920958161
+9002;Mairie du 9e;Rue du Bourbonnais;Angle rue Sergent Michel Berthet, sur le côté de la mairie;Lyon 9e Arrondissement;2;27;;mairie, coeur quartier, métro D;True;;257;69389;4.805666011414779;45.77424082809611
+3099;Place Sainte Anne;2, Place Saint Anne;;Lyon 3e Arrondissement;99;18;;Coeur de quartier, commerces;True;;252;69383;4.865331803082072;45.7570472667114
+2010;Confluence / Darse;2, Allée Andrée Mure;Quai Antoine Riboud;Lyon 2e Arrondissement;10;22;;;True;Monté;251;69382;4.815854361039027;45.74341409472539
+10043;Salengro / Feyssine;Face 44, Rue de la Feyssine;;Villeurbanne;43;20;;itinéraires cyclables;True;;275;69266;4.890634595672779;45.78298359401012
+7049;Cité Scolaire Internationale;26, Avenue Tony Garnier;;Lyon 7e Arrondissement;49;25;; ;True;;281;69387;4.823560081405908;45.727918857658594
+3039;Place Bir-Hakeim;Face 2, Place Bir-Hakeim;Angle Rue Julien Duvivier;Lyon 3e Arrondissement;39;19;;maillage;True;;283;69383;4.855710148688799;45.75259214373137
+8039;Pierre Delore;Face 2, Rue Pierre Delore;;Lyon 8e Arrondissement;39;20;;Habitat;True;;284;69388;4.8524001839789195;45.73863588359213
+1035;Quai Lassagne;3, Quai André Lassagne;;Lyon 1er Arrondissement;35;16;;Maillage;True;;286;69381;4.837911792926473;45.77220146927456
+8021;Paul Santy;101, Avenue Paul Santy;;Lyon 8e Arrondissement;21;16;;itinéraire cyclable;True;;287;69388;4.877305934394243;45.72851815103356
+10053;Rossellini / 11 Novembre;29, Boulevard du 11 Novembre 1918;;Villeurbanne;53;30;;BRGM, ENSSIB;True;;289;69266;4.8630954295038;45.77938657533472
+10034;Docteur Damidot;46, Rue du Docteur Damidot;Devant la MJC;Villeurbanne;34;18;;MJC;True;;290;69266;4.886133865523622;45.76182010690323
+3085;Sacré Coeur;68, Rue Antoine Charial;;Lyon 3e Arrondissement;85;16;;Gymnase, piscine, lycée, jardin public, sacré coeur;True;;295;69383;4.868350531883271;45.75786183436949
+2036;Place Antonin Gourju;Place Antonin Gourju;;Lyon 2e Arrondissement;36;30;;Commerces, place Bellecour,;True;;296;69382;4.830169955416065;45.75948634905248
+8041;Etats-Unis / Viviani;170, Boulevard des Etats-Unis;Angle Avenue Viviani;Lyon 8e Arrondissement;41;20;;;True;Monté;297;69388;4.870765977089192;45.72470316528245
+4008;Clos Savaron;10, Rue Clos Savaron;Face au n°19;Lyon 4e Arrondissement;;20;;deleuvre;True;;298;69384;4.8255591851847734;45.782636257496925
+3053;Gambetta / Jusserand;97, Avenue Jules Jusserand;Angle Cours Gambetta;Lyon 3e Arrondissement;53;13;;bureaux, itinéraire cyclable;True;;299;69383;4.855585088300652;45.751112410293835
+20002;Oullins - Mairie;4, Rue Etienne Dolet;;Oullins;;18;;mairie_oullins;True;;301;69149;4.806544334111354;45.7140014190428
+3084;Desaix;128, Rue Paul Bert;;Lyon 3e Arrondissement;84;28;; ;True;;303;69383;4.855200856422819;45.757261259942524
+14004;Bron - Mairie;5, Rue de Verdun;;Bron;;23;;mairie_bron;True;;304;69029;4.908720681867942;45.733945529647485
+10074;Zola / Passage Rey;141, Cours Emile Zola;Angle Passage Rey;Villeurbanne;74;19;;Salle de gym des Gratte-Ciel, centre-ville;True;;306;69266;4.876690417532801;45.770097843283175
+3040;Faure / Danton;87, Avenue Félix Faure;;Lyon 3e Arrondissement;;35;;;True;Monté;307;69383;4.857737618170498;45.753518286906875
+30002;Rillieux - Loup Pendu;196, Avenue Pierre Mendes France;;Rillieux-la-Pape;;18;;loup_pendu;True;;308;69286;4.887043450817669;45.81597011088588
+10019;4 Août / Racine;37, Rue du 4 Août 1789;;Villeurbanne;;30;; ;True;;311;69266;4.87792062630033;45.76448293919055
+3067;Hachette;2, Rue Jean Renoir;Angle Rue Jeanne Hachette;Lyon 3e Arrondissement;67;15;;CES, logements;True;;312;69383;4.8638526893825516;45.75291602189632
+3089;Trarieux / Lacassagne;221, Avenue Lacassagne;;Lyon 3e Arrondissement;89;24;;Ecole d'infirmière;True;;313;69383;4.88904203550089;45.74530080833162
+10007;Piaton / Condorcet;Avenue Piaton;Angle rue Condorcet;Villeurbanne;7;20;;centre quartier, itinéraire cyclable;True;;314;69266;4.867504213135081;45.77421517843546
+6045;Brotteaux / Vauban;44 bd des Brotteaux;;Lyon 6e Arrondissement;45;15;;Commerces, maillage;True;;315;69386;4.8570018759142295;45.766367311284306
+3050;Friche RVI;5, Rue Félix Rollet;;Lyon 3e Arrondissement;50;20;;ancienne friche RVI;True;Monté;316;69383;4.8759239595508275;45.748320705141076
+8042;Francis de Pressensé;74, Rue Paul Cazeneuve;Angle Avenue Francis de Pressensé;Lyon 8e Arrondissement;38;22;;Quartier d'habitation;True;;300;69388;4.860037966312989;45.73142726712921
+10119;Villeurbanne Saint-Jean;2, Rue des Acacias;;Villeurbanne;119;12;;Collège Jean Vilar;True;;270;69266;4.9045008762779005;45.7804194257464
+8020;Moulin à Vent;2 Rue du Moulin à Vent;angle route de Vienne;Lyon 8e Arrondissement;20;22;;Commerces, itinéraire cyclable, coeur de quartier;True;;309;69388;4.854181941236409;45.72967613408203
+10063;Perrin / Jean Jaurès;9, Place Jules Grandclément;Rue Antonin Perrin;Villeurbanne;63;34;;quartier Grandclément;True;;247;69266;4.885609434424514;45.758391819448924
+2023;Perrache / Petit;19, quai Perrache;;Lyon 2e Arrondissement;;18;;;True;;293;69382;4.826775185879977;45.74451404988682
+10080;Vaillant / Perroncel;45, Rue Edouard Vaillant;Angle Rue Alexis Perroncel;Villeurbanne;80;17;;Maillage, itinéraire cyclable;True;;317;69266;4.880263091257814;45.775398810298675
+8040;Ambroise Paré;39, Boulevard Ambroise Paré;;Lyon 8e Arrondissement;40;24;;Services et habitat;True;;318;69388;4.883681688322731;45.73629951229903
+3018;Créqui / Voltaire;Rue de Créqui;angle Rue Paul Bert;Lyon 3e Arrondissement;18;30;;Coeur de quartier;True;;302;69383;4.848403485755717;45.756698344192564
+2037;Place des Archives;18, Rue Dugas Montbel;;Lyon 2e Arrondissement;37;40;; ;True;;291;69382;4.824861728009316;45.74796914110758
+10101;Einstein / 11 novembre 1918;Boulevard du 11 novembre 1918;;Villeurbanne;101;34;;résidence étudiante, maillage;True;;305;69266;4.874090173328522;45.779444110761155
+3043;Place Rouget de L'Isle;Place Rouget de l'Isle;Face 35, Avenue Lacassagne;Lyon 3e Arrondissement;43;16;;maillage;True;;322;69383;4.867353294625919;45.753963192984465
+10064;4 août 1789;97, Rue du 4 août 1789;Angle Rue Rollet;Villeurbanne;64;15;;iti. Cyclable, associations sportives;True;;323;69266;4.884270532810905;45.76479916907835
+10071;Lycée Marie Curie;33, Boulevard Eugène Réguillon;;Villeurbanne;71;15;;lycée, quartier;True;;324;69266;4.895690219961361;45.761527969892924
+8053;Lumière / Trouilhet;6, Rue Antoine Lumière;;Lyon 8e Arrondissement;53;16;;Poste, commerces;True;;325;69388;4.870101746345786;45.74356785165425
+3080;Part-Dieu / Villette;Rue de la Villette;;Lyon 3e Arrondissement;80;30;;Gare Part-Dieu;True;;328;69383;4.86167388058994;45.76005505783218
+5002;Place des Compagnons de la chanson;Place des Compagnons de la chanson;angle Rue des Aqueducs;Lyon 5e Arrondissement;2;18;;funiculaire, coeur quartier;True;;330;69385;4.796612178889426;45.75652733689576
+7016;Place St Louis;Rue de la Madeleine;Face Rue Béguin;Lyon 7e Arrondissement;16;15;;Coeur quartier, itinéraire cyclable;True;;331;69387;4.847739942653555;45.74908035897641
+3070;Rebatel / Saint-Maximin;62, Rue St Maximin;;Lyon 3e Arrondissement;;30;;st_maximin_rebatel;True;;332;69383;4.872269871107927;45.74781943348857
+8038;Albert Thomas / Villon;64, Cours Albert Thomas;angle rue Villon;Lyon 8e Arrondissement;38;20;;bureaux, itinéraire cyclable;True;;336;69388;4.867428644526009;45.74671633151209
+3013;Place Antoinette;Place Antoinette;Angle Rue Antoinette et Cours Richard Vitton;Lyon 3e Arrondissement;13;21;;coeur de quartier;True;;337;69383;4.889242318443289;45.75365325559824
+3079;Place Louise;4, Place Louise;;Lyon 3e Arrondissement;79;16;;Coeur de quartier, Parc Georges Bazin, maillage;True;;338;69383;4.884820463650072;45.751205250899304
+2011;Sala / Rue du Plat;25 Rue du Plat;Face faculté catholique;Lyon 2e Arrondissement;11;14;;faculté catholique;True;;339;69382;4.828385917865436;45.756786870058654
+3024;Rockfeller / Esquirol;35, Avenue Rockefeller;Intersection Rockfeller/Esquirol;Lyon 3e Arrondissement;24;19;;tram, école d'infirmière, itinéraire cyclable;True;;340;69383;4.88554082427912;45.74133371861783
+4023;Pont Masaryk;Face 45, Quai Joseph Gillet;Pont Masarik;Lyon 4e Arrondissement;23;22;;;True;;342;69384;4.81063175762027;45.77827801299792
+14001;Bron - Centre Nautique;22, Rue de la Marne;;Bron;;13;;gaillard_romanet;True;;343;69029;4.908621338411987;45.7429248383715
+7062;Garibaldi / Domer;Face 327, Rue Garibaldi;Angle Rue Domer;Lyon 7e Arrondissement;62;19;;Lycée Professionnel, CROUS;True;;345;69387;4.85162737005828;45.747732736897866
+10044;Rocard Octavie;16, Rue Michel Rocard;;Villeurbanne;;25;;;True;;346;69266;4.889570179907409;45.7809196995896
+9041;Carret / Sédaillan;30, Quai Paul Sédaillan;;Lyon 9e Arrondissement;41;18;;Activités, logement, maillage;True;;347;69389;4.820578257531564;45.792477738603225
+17003;Saint Fons - Théatre;59, Rue Carnot;;Saint-Fons;;18;;Saint-Fons;True;;350;69199;4.861775604138334;45.70808559718986
+4025;Chazière;25, Rue Chazière;;Lyon 4e Arrondissement;25;20;;Parc Cerisaie, habitations;True;;351;69384;4.817889929552505;45.775422466915806
+8054;Martinière / Monplaisir;3, Rue Antoine Lumière;;Lyon 8e Arrondissement;54;20;;Lycée technique;True;;353;69388;4.8683054018251575;45.740894695747706
+2003;Place Ampère;18, Rue Bourgelat;angle rue Henry 4;Lyon 2e Arrondissement;3;10;;métro A, coeur quartier, commerces;True;;320;69382;4.828245539539379;45.75304453298495
+7001;Place Gabriel Péri;4, Place Gabriel Péri;En face du mur peint, devant la Poste;Lyon 7e Arrondissement;1;20;;métro D, tram, coeur quartier, commerces;True;;341;69387;4.843675081892018;45.754879016482306
+9003;Place Valmy;1, Rue Roquette;angle Rue de Bourgogne;Lyon 9e Arrondissement;3;16;;métro D, médiathèque;True;;334;69389;4.805303665120908;45.77567499966055
+1023;Croix Rousse / Perfetti;Face 23, Boulevard de la Croix Rousse;;Lyon 1er Arrondissement;23;20;;IUFM, gymnase Jean Genety;True;;326;69381;4.819460862010004;45.77225384154785
+8002;Place Ambroise Courtois;Place Ambroise Courtois;Face 107 Cours Albert Thomas;Lyon 8e Arrondissement;2;20;;Métro D, Institut Lumière, Place et avenue des frères Lumière;True;;321;69388;4.871678963257802;45.74529261647093
+8009;Jean XXIII / Mermoz;Face 74, Boulevard Jean XXIII;Angle Avenue Jean Mermoz;Lyon 8e Arrondissement;9;20;;tram;True;;349;69388;4.869805432007176;45.736479605706585
+10002;INSA;Face 5, Avenue Albert Einstein;au niveau du virage de l'avenue;Villeurbanne;2;55;;INSA, tram, itinéraires cyclables;True;;352;69266;4.876955025005409;45.78221650547041
+7021;Challemel Lacour / Gerland;Face 174, Rue de Gerland;58, Rue Challemel Lacour;Lyon 7e Arrondissement;21;12;;maillage;True;;348;69387;4.838138438340419;45.729805865226226
+7010;Centre Berthelot;105, Rue Pasteur;angle Avenue Berthelot;Lyon 7e Arrondissement;10;19;;tram, cinéma;True;;355;69387;4.83599969820417;45.74735617434048
+7003;Gambetta / Garibaldi;100, Cours Gambetta;Prolongement Rue Rachais;Lyon 7e Arrondissement;3;40;;métro D;True;;356;69387;4.852607966008755;45.75179013556488
+8061;Stade Vuillermet;186, Avenue Paul Santy;;Lyon 8e Arrondissement;61;18;;Stade, commerces;True;;357;69388;4.88129489220966;45.72540371721826
+3017;Saxe / Dunoir;5, Rue Dunoir;Angle Avenue Maréchal de Saxe;Lyon 3e Arrondissement;;37;;marechal_saxe_dunoir;True;;358;69383;4.845193598695001;45.760921390657224
+4026;Birmingham;Avenue de Birmingham;Tunnel Mode doux de la Croix-Rousse;Lyon 4e Arrondissement;26;20;;;True;;359;69384;4.8134162571604;45.77463110981901
+2018;Hôtel Dieu / Pont de la Guillotière;Face 26, Quai Jules courmont;;Lyon 2e Arrondissement;18;50;;Hôtel Dieu;True;Monté;360;69382;4.83706237202871;45.75741752550352
+2016;Place Regaud;Place Regaud;Angle rue Tupin / rue Herriot;Lyon 2e Arrondissement;16;12;;maillage, Virgin;True;;362;69382;4.834286688347047;45.763076929584365
+3090;Vinatier;95, Boulevard Pinel;;Lyon 3e Arrondissement;90;20;;Hôpital le Vinatier;True;;364;69383;4.8939591141013725;45.74191154912509
+1037;Chazette Lassagne;Entrée Est du Tube Mode Doux;;Lyon 1er Arrondissement;;20;;;True;;365;69381;4.837269544068437;45.772926620631885
+5007;Place de Trion;Place de Trion;Angle rue de Trion et place de Trion;Lyon 5e Arrondissement;7;16;;Place de Trion, St Just, commerces;True;;366;69385;4.813134952810746;45.75790630892378
+8024;Mermoz / Michelet;66, Avenue Jean Mermoz;Angle Boulevard Edmond Michelet;Lyon 8e Arrondissement;24;12;;Cité des Entreprises, itinéraire cyclable;True;;367;69388;4.878600856962377;45.73327178016184
+2008;Place Antonin Poncet;1, Place Antonin Poncet;Devant la librairie Privat;Lyon 2e Arrondissement;8;40;;métro A D, poste centrale, commerces;True;;368;69382;4.833927396653385;45.7567623213206
+11005;Caluire - Passerelle de la Paix;Chemin Wette Fays;Face à la Rue de la Gravière;Caluire-et-Cuire;;25;;Caluire-et-Cuire;True;;369;69034;4.853054333399219;45.78795164030834
+10086;Anatole France;Rue Anatole France;Angle Rue de Pressensé / Flachet;Villeurbanne;86;10;;maillage, iti. Cyclable;True;;370;69266;4.889631350176211;45.76982948961712
+3086;Feuillat / Lacassagne;115, Avenue Lacassagne;Angle Rue Feuillat;Lyon 3e Arrondissement;86;16;;Maillage, stade;True;;371;69383;4.875933402968507;45.74956270681449
+16003;Vénissieux - Joliot Curie / Sembat;Boulevard Irène Joliot Curie;;Vénissieux;;25;;Vénissieux;True;;372;69259;4.87823506147984;45.71545295206763
+20003;Oullins - Pont Blanc;Face 56, Boulevard de l'Yzeron;;Oullins;;24;;zola_yzeron;True;;373;69149;4.7983317319214045;45.720157776943545
+10041;Kimmerling;41, Route de Genas;;Villeurbanne;41;16;;Maillage, espace public;True;;374;69266;4.89889917271775;45.752917545458416
+5032;Ménival / Eisenhower;43, Avenue de Ménival;;Lyon 5e Arrondissement;;12;;Lyon 5ème arrondissement;True;;375;69385;4.783245907844624;45.75675522836069
+3094;Villette;74, Rue de la Villette;;Lyon 3e Arrondissement;94;38;;Etablissements publics, bureaux;True;;376;69383;4.8614973648418855;45.757787880503
+10092;Montgolfier / Château Gaillard;135 rue Château Gaillard;;Villeurbanne;92;17;;Maillage;True;;378;69266;4.890374213837775;45.771554326744756
+8058;Longefer / Krüger;10, rue Paul Kruger;;Lyon 8e Arrondissement;58;16;;Maillage;True;;380;69388;4.878117422458279;45.73867144035856
+9052;Balmont;332, Boulevard de Balmont;;Lyon 9e Arrondissement;52;12;;Commerces;True;;381;69389;4.7991603409726284;45.789315187601794
+1013;Martinière;Rue de la Martinière;Au niveau de la place Saint Vincent;Lyon 1er Arrondissement;13;11;;Maillage ;True;;382;69381;4.827621704471155;45.76821831660954
+18001;Pierre Bénite - Europe;22, Rue Voltaire;;Pierre-Bénite;;15;;europe;True;;383;69152;4.8212003761276785;45.703255857118755
+2027;Perrache Est;48 Cours Suchet;;Lyon 2e Arrondissement;;20;;Lyon 2ème arrondissement;True;;384;69382;4.825605393944587;45.74610307359189
+34002;Neuville - Stade;Face au 27, Route de Lyon;;Neuville-sur-Saône;;15;; ;True;;385;69143;4.839598537318636;45.87087624618698
+15001;Saint Priest - Parc Technologique;312, Cours du 3ème Millénaire;;Saint-Priest;;20;;parc technologique;True;;386;69290;4.931014315670896;45.71441038412167
+7064;CROUS;96, Rue Chevreul;;Lyon 7e Arrondissement;64;17;;Ecole de Condé;True;;387;69387;4.8477802774631025;45.745430515298224
+14005;Bron - Université;5, Avenue Pierre Mendès France;;Bron;;30;; ;True;;389;69029;4.915208499990977;45.72266073152352
+2004;Perrache / Carnot;Place Carnot;Coté Sud/Est de la Place en face N°16;Lyon 2e Arrondissement;4;18;;;True;;388;69382;4.828051501355156;45.75009964334345
+3031;Corneille / Servient;126, Rue Pierre Corneille;Angle Rue Servient;Lyon 3e Arrondissement;31;13;;tram;True;;379;69383;4.844489675489049;45.759980959086576
+10112;Place de la Reconnaissance;109, Route de Genas;Angle Rue Antonin Perrin;Villeurbanne;112;32;;MJC, espace public, maillage;True;;363;69266;4.88526932867135;45.7544406099066
+7018;Lycée Louise Labé;1, Rue Rivet;;Lyon 7e Arrondissement;18;20;;Lycée professionnel Louise Labé;True;;391;69387;4.832059370425174;45.740280652668275
+10047;Lherminier / Pressensé;2, Avenue du Commandant Lherminier;Angle Rue Francis de Pressensé;Villeurbanne;47;15;;itinéraires cyclables;True;;396;69266;4.885023598465899;45.7711232449614
+14003;Bron - Place Curial;70, Avenue Mal. de Lattre de Tassigny;Contre Allée F. Mitterrand;Bron;;25;;place_curial;True;;397;69029;4.91710048563201;45.736674424258965
+11001;Caluire - Gare de Cuire;2, Rue Claude Baudrand;;Caluire-et-Cuire;1;16;;Métro, centre quartier;True;;398;69034;4.833713421589126;45.78577553086415
+10115;Place d'Espagne / Stade Kruger;143, Avenue Paul Kruger;;Villeurbanne;115;22;;Stade;True;;399;69266;4.9052920801326065;45.754167771684585
+5001;Place Varillon (funiculaire St-Just);63, Rue de Trion;;Lyon 5e Arrondissement;1;23;;Métro Saint Just, habitations, commerces;True;;400;69385;4.815090011309527;45.75730032193787
+7052;Parc Blandan;37, Rue du Repos (entrée parc Blandan);;Lyon 7e Arrondissement;25;25;;Parc Sergent Blandan;True;;401;69387;4.8511961077823775;45.7459637289024
+5044;Champvert;67, Rue Edmond Locard;;Lyon 5e Arrondissement;44;15;;Stade Edmond Locard, Skate Park;True;;402;69385;4.798407614953548;45.76007857703129
+11004;Branly / Pasteur;75, Rue Pasteur;;Caluire-et-Cuire;;15;;;True;;405;69034;4.843331316106841;45.79158966144588
+3102;Docteur Long / Aubépins;2, Rue de la Caille;;Lyon 3e Arrondissement;102;16;;Maillage;True;;407;69383;4.894267471712091;45.75253942950864
+10084;Doua / Avenue des Arts;2, Avenue des Arts;;Villeurbanne;84;30;;Campus de la Doua;True;;408;69266;4.8712494989676305;45.78349977959382
+3021;Place de la Ferrandière;51, Avenue Georges Pompidou;Angle Rue Louis Jasseron;Lyon 3e Arrondissement;21;20;;maillage;True;;410;69383;4.86934289665943;45.75947339661219
+7008;Jean Jaurès / Guillotière;17, Avenue Jean Jaurès;angle Rue de la Guillotière;Lyon 7e Arrondissement;8;10;;maillage;True;;390;69387;4.846320618224095;45.75258090023228
+3016;Liberté / Part-Dieu;34, Cours de la Liberté;angle rue de la Part-Dieu;Lyon 3e Arrondissement;16;18;;tram, commerces, itinéraire cyclable;True;;394;69383;4.842297616229328;45.75939863388015
+9004;Gare de Vaise;Face 14, Rue du 24 Mars 1852;face entrée gare;Lyon 9e Arrondissement;4;22;;Gare, métro D;True;;411;69389;4.8046653309593905;45.77978198394285
+2007;Patinoire Charlemagne;100, Cours Charlemagne;Rue Casimir Périer;Lyon 2e Arrondissement;7;37;;Patinoire Charlemagnes, Station tramway;True;Monté;406;69382;4.820471670305504;45.74261150057181
+8055;Saint-Romain / Berliet;57, Rue Marius Berliet;;Lyon 8e Arrondissement;;20;; ;True;;392;69388;4.860372089467236;45.7422568774536
+10103;Doua / Rue des sports;Rue des Arts;;Villeurbanne;103;30;;Tennis, stade, piscine;True;;393;69266;4.87748318756889;45.784525320436266
+12004;Vaulx - Hôtel de ville;Rue Maurice Audin;coté Planétarium;Vaulx-en-Velin;;30;; ;True;;259;69256;4.92051671129779;45.77817181629516
+1034;Carmélites;Face 30, Montée des Carmélites;;Lyon 1er Arrondissement;34;16;; ;True;;33;69381;4.829304232589043;45.770022924069515
+10013;Cusset;13, Rue Pierre Voyant;;Villeurbanne;13;20;;métro A, centre quartier;True;;412;69266;4.901015274530836;45.764945643892666
+5016;Point du Jour / Granges;49, Avenue du Point du Jour;;Lyon 5e Arrondissement;16;13;;Mairie de Lyon 5ème;True;;413;69385;4.802711079169013;45.756193928676254
+10083;Château Gaillard / Bienvenus;Face 31, Rue des Bienvenus;;Villeurbanne;83;15;;;True;;415;69266;4.884244285772838;45.7778649152709
+4004;Hénon;60, Boulevard des Canuts;angle Rue Hénon;Lyon 4e Arrondissement;4;22;;métro C, itinéraire cyclable;True;;416;69384;4.827648401087957;45.77975536713156
+6023;Quai Sarrail;Face 4, Quai Général Sarrail;angle rue de Sèze;Lyon 6e Arrondissement;23;14;;Parc du Rhône;True;;417;69386;4.8411393393513285;45.766829619641626
+15002;Saint Priest - Cité Berliet;Place Steven Spielberg;8ème Rue Cité Berliet;Saint-Priest;;20;;cite berliet;True;;419;69290;4.900984850609104;45.70598197250517
+8003;Claude Bernard Lyon I;16, Rue Guillaume Paradin;devant entrée de la fac;Lyon 8e Arrondissement;3;16;;faculté de médecine, métro;True;;420;69388;4.886880308711535;45.73814005604696
+3091;Hôpital Neurologique;59, Boulevard Pinel;;Lyon 3e Arrondissement;91;20;;Centre hospitalier, itinéraire cyclable;True;;421;69383;4.896957057546;45.748183293860585
+10072;Jacques Brel;Face 4, Rue Jacques Brel;;Villeurbanne;64;23;;Tram, habitat dense et quartier du Tonkin;True;;3;69266;4.864291347855821;45.7742206902626
+3004;Bourse du travail;Face 74, Rue de la Part-Dieu;Face place Eugène Varlin;Lyon 3e Arrondissement;4;27;;métro B, coeur quartier;True;;418;69383;4.848266559708355;45.75964530885178
+3010;Part-Dieu / Cuirassiers;Face au 9, Rue des Cuirassiers;;Lyon 3e Arrondissement;;34;;;True;;414;69383;4.8562143376377644;45.75898613328861
+4041;Boussange / Austerlitz;17, rue d'Austerlitz;;Lyon 4e Arrondissement;41;18;;Renforcement 4022, commerces;True;;142;69384;4.835512448007523;45.775045238094535
+6044;Charmettes / Bellecombe;26, Rue de la Viabert;;Lyon 6e Arrondissement;44;16;;CIL Bellecombe, hôpital des Charmettes, ND de Bell;True;;194;69386;4.865054902670438;45.766370352854764
+8057;Vienne / Montagny;184 Route de Vienne;;Lyon 8e Arrondissement;57;20;;Maillage;True;;403;69388;4.85340997500186;45.73248197825823
+6016;Viabert / Thiers;Rue de la Viabert;angle avenue Thiers;Lyon 6e Arrondissement;16;16;;tram, itinéraire cyclable;True;;292;69386;4.862092278200749;45.76598798339972
+7012;Place des Pavillons;Face 251, Rue Marcel Mérieux;;Lyon 7e Arrondissement;12;16;;ENS Sciences, coeur quartier;True;;377;69387;4.830143479384694;45.72908488363722
+10056;11 novembre / Gaston Berger;Face 110, Avenue du 11 novembre 1918;Angle Avenue Gaston Berger;Villeurbanne;56;35;;resto U, associations, logements étudiants, iti. Cyclable;True;;424;69266;4.871496463189616;45.77906398634157
+7033;Saint-Luc / Saint-Joseph;Face 22, Quai Claude Bernard;Sur le quai haut;Lyon 7e Arrondissement;33;33;;Tramway, hôpital;True;;219;69387;4.834793243012428;45.749421035230085
+6007;Masséna;47, Rue Tête d'Or;angle Cours Vitton;Lyon 6e Arrondissement;7;27;;métro A;True;;344;69386;4.852372782856001;45.76966013221694
+17001;Saint Fons - Arsenal;Face au 40, Avenue Jean Jaurès;;Saint-Fons;;27;;Saint-Fons;True;;426;69199;4.855274123133999;45.71234480151196
+3083;Les Halles;183, Rue André Philip;;Lyon 3e Arrondissement;83;18;;Commerces, coeur de quartier;True;;425;69383;4.850481162649521;45.76159092583704
+10028;Ecole de musique;49, Cours de la République;Angle Anatole France;Villeurbanne;28;24;;Conservatoire (A. France = itinéraire cyclable);True;;427;69266;4.874010554911909;45.76751737834845
+2014;Jacobins;1, Rue Jean de Tournes;;Lyon 2e Arrondissement;14;26;;Coeur quartier, commerces, site;True;;428;69382;4.834304228535888;45.76075169507551
+12002;Vaulx - Poudrette / La Soie;Face 2, Rue de la Poudrette;;Vaulx-en-Velin;70;20;;Centre commercial Carré de Soie;True;Monté;429;69256;4.919275785947365;45.76440031307614
+12003;Vaulx - Bibliothèque;Rue Joseph Blein;devant la bibliothèque;Vaulx-en-Velin;;15;; ;True;;431;69256;4.92732161126566;45.75706976008222
+7002;Universités Lyon III / Lyon II;Face 16, Quai Claude Bernard;Entre Pont de l'université et rue Chevreul;Lyon 7e Arrondissement;2;39;;Université Lyon 2 et Lyon 3;True;;38;69387;4.836143507784544;45.75110089580277
+6043;Cité Internationale - Cinéma;80, Quai Charles de Gaulle;;Lyon 6e Arrondissement;43;32;;Cinémas, commerces;True;;90;69386;4.851929513645389;45.784710680323315
+6036;Musée d'Art Contemporain;Allée Achille Lignon;Face 83, Quai Charles de Gaulle;Lyon 6e Arrondissement;36;23;;Cinémas, Cité internationale, Musée d'art contemporain, parc;True;;430;69386;4.852140403416399;45.78388161430035
+7034;Piscine du Rhône;Face 8, Quai Claude Bernard;;Lyon 7e Arrondissement;34;31;;Piscine du Rhône;True;;280;69387;4.838220972403206;45.75361070537691
+10058;Métro Flachet;276, Cours Emile Zola;;Villeurbanne;58;22;;métro A;True;;423;69266;4.892428641384554;45.76709094508305
+1002;Opéra;Face 18, Rue Joseph Serlin;;Lyon 1er Arrondissement;2;41;;Opéra, métro, mairie centrale;True;;117;69381;4.8365720721237615;45.76760203502725
+1003;Place Sathonay;4, Place Sathonay;;Lyon 1er Arrondissement;3;22;; ;True;;152;69381;4.830123718701326;45.76929800209085
+6017;Lafayette / Inkermann;Face au 92b Rue d'Inkermann;;Lyon 6e Arrondissement;;30;;lafayette_inkerman;True;;95;69386;4.865913254455727;45.76393602444904
+5006;Quai Romain Rolland;Quai Romain Rolland;Face au Palais de Justice;Lyon 5e Arrondissement;6;17;;Vieux Lyon;True;;254;69385;4.828869803446583;45.762009352085066
+10025;Totem;40, Cours Tolstoï;;Villeurbanne;25;16;;Centre Quartier;True;;335;69266;4.87314108788078;45.76364070304086
+1005;Meissonier;3, Place Meissonier;Angle sud-est de la place;Lyon 1er Arrondissement;5;16;;maillage;True;;329;69381;4.83283358305682;45.76608506687655
+3037;Paul Bert / Garibaldi;209, Rue Paul Bert;Face place des Martyrs de la Résistance;Lyon 3e Arrondissement;37;21;;maillage (piscine Garibaldi);True;;60;69383;4.853476707251385;45.757083605777616
+9006;Théâtre Nouvelle Génération;Face 2, Rue Tissot;angle Rue de Bourgogne;Lyon 9e Arrondissement;6;16;;maillage;True;;225;69389;4.803311744565665;45.777295537389335
+6042;Cité Internationale - Résidence hôtelière;Allée Achille Lignon;Face 35, Quai Charles de Gaulle;Lyon 6e Arrondissement;42;28;;Amphithéâtre, bureaux, résidence hôtelière;True;;192;69386;4.856503323071327;45.784814479818984
+2006;Place de l'Hippodrome;Place de l'Hippodrome;Angle Cours Charlemagne;Lyon 2e Arrondissement;6;24;;coeur quartier;True;;310;69382;4.8235326732363095;45.74558155219791
+7020;Parc de Gerland;24, Allée Pierre de Coubertin;;Lyon 7e Arrondissement;20;26;;Parc de Gerland, Palais des Sports;True;;160;69387;4.826821430588419;45.724348355140485
+10079;Anatole France / Barbusse;103, Rue Anatole France;Angle avenue Barbusse;Villeurbanne;79;20;;marché, centre-ville;True;;162;69266;4.879081317557796;45.76811410253395
+6005;Place Edgar Quinet;6, Place Edgar Quinet;Devant le lycée;Lyon 6e Arrondissement;5;20;;coeur quartier;True;;149;69386;4.844731892850445;45.76576559248031
+7004;Mairie du 7e;Place Jean Macé;face à la Mairie;Lyon 7e Arrondissement;4;30;;métro B, tram, future halte TER, coeur quartier, mairie;True;;167;69387;4.842341258091612;45.74656017304797
+7013;Halle Tony Garnier;8, Avenue Tony Garnier;Angle Rue Pierre Riboulet;Lyon 7e Arrondissement;13;20;;Halle Tony Garnier;True;;244;69387;4.823740406765396;45.7308422388848
+3100;Sisley /  Dauphiné;5, Rue Professeur Paul Sisley;;Lyon 3e Arrondissement;100;17;;Jardin public, tramway;True;;114;69383;4.868750600228422;45.752486432190686
+4005;Place Bertone;Rue du Chariot d'Or;Place Bertone;Lyon 4e Arrondissement;5;12;;coeur quartier;True;;285;69384;4.834500942111278;45.777617376522315
+9014;Quai du Commerce;Face 18, Quai du Commerce;Angle rue Rhin & Danube;Lyon 9e Arrondissement;14;30;;itinéraires cyclables;True;;105;69389;4.810478278467586;45.7820631990779
+5026;Rue de la Baleine;13, Quai romain Rolland;angle Rue de la Baleine;Lyon 5e Arrondissement;26;14;;Vieux Lyon;True;;30;69385;4.829011477421789;45.76338371026079
+4014;Philippe de Lassalle / Pillement;Face 38, Rue Philippe de Lassalle;angle Rue Pillement;Lyon 4e Arrondissement;14;13;;maillage;True;;203;69384;4.820538470711451;45.77742064795637
+3088;Place Guichard;65, Rue Mazenod;;Lyon 3e Arrondissement;88;16;;Métro, tram, palais justice, bourse du travail;True;;248;69383;4.846453225948515;45.75881520506402
+4017;Place des tapis;Face 12, Boulevard des Canuts;angle boulevard de la Croix-Rousse;Lyon 4e Arrondissement;17;17;;coeur de quartier;True;;327;69384;4.829621096225884;45.77602649138848
+10027;Mairie de Villeurbanne;3, Avenue Aristide Briand;En face de l'entrée de la mairie;Villeurbanne;27;26;;Mairie de Villeurbanne, TNP, itinéraire cyclable;True;;333;69266;4.880115119435788;45.766833142114685
+6006;Boulevard des Belges;49, Boulevard des Belges;Face rue Duquenne;Lyon 6e Arrondissement;6;15;;Parc de la Tête d'Or;True;;11;69386;4.851989498915179;45.77332703829208
+6012;Place Puvis de Chavannes;Face 5, Place Puvis de Chavannes;Angle rue Vendôme;Lyon 6e Arrondissement;12;10;;;True;;92;69386;4.844603635748358;45.771757085590764
+6004;Foch;11, Cours Franklin Roosevelt;Angle rue Vendôme;Lyon 6e Arrondissement;4;20;;métro A, coeur quartier;True;;226;69386;4.844764938842582;45.768851369776705
+6020;Musée Guimet;28, Boulevard des Belges;angle Rue Morellet;Lyon 6e Arrondissement;20;15;;musée Guimet, itinéraire cyclable;True;;288;69386;4.848477101851376;45.774504873006585
+6003;Avenue Verguin;Face 14, Avenue Verguin;devant l'entrée du parc;Lyon 6e Arrondissement;3;20;;Parc de la Tête d'Or, lycée du Parc;True;;294;69386;4.856326781358822;45.77291139746561
+6022;Place Maréchal Lyautey;5-6, Place Maréchal Lyautey;;Lyon 6e Arrondissement;22;20;;;True;;422;69386;4.842317953887165;45.769373057773876
+6040;Les Halles;Face 149, Rue Boileau;;Lyon 6e Arrondissement;40;15;; Les halles de Lyon;True;;54;69386;4.849930546075753;45.76405761273627
+6001;Gare des Brotteaux;4, Place Jules Ferry;;Lyon 6e Arrondissement;1;16;;Places Jules Ferry, Métro B, Parking, restaurants;True;;75;69386;4.858992167312562;45.76690958028361
+3033;OL Vallée Éphémère;10, Avenue Simone Veil;Groupama Stadium;Décines-Charpieu;;21;;Groupama Stadium;True;;432;69275;4.981168666673923;45.76792256108717
+8037;Cazeneuve;Face 42, Rue Paul Cazeneuve;Square René Picod;Lyon 8e Arrondissement;37;19;;Quartier d'habitation;True;;136;69388;4.862902379294158;45.73402009181408
+8056;Delore / Audibert et Lavirotte;Face 69, Rue Audibert et Lavirotte;;Lyon 8e Arrondissement;56;18;;Maillage;True;;156;69388;4.856812818671199;45.735795232076704
+8034;Berthelot / Villon;Face 98, Rue Villon;angle rue Berthelot;Lyon 8e Arrondissement;34;13;;tram;True;;266;69388;4.862732783204483;45.73830233572538
+8010;Place Mendès France;95, Avenue de l'Europe;;Lyon 8e Arrondissement;10;20;;Tramway, place, Commerces;True;;279;69388;4.859416412882197;45.74005164652071
+9043;Marietton Ouest;Face 77b, Rue Marietton;;Lyon 9e Arrondissement;43;20;;Maillage;True;;7;69389;4.799737660970007;45.776085042893605
+9040;Place de la Rhodiacéta;53, Rue Chapeau Rouge;;Lyon 9e Arrondissement;40;12;;ANPE, bureaux, enseignement secondaire;True;;27;69389;4.8075804142518965;45.770990641162186
+9020;Bourbonnais;45, Rue du Bourbonnais;angle Rue Docteur Horand et Avenue Georges Masset;Lyon 9e Arrondissement;20;12;;maillage;True;;222;69389;4.800287929393639;45.773464565999284
+9044;Masset / Saint-Pierre de Vaise;17, Avenue Joannès Masset;Angle Rue Saint Pierre de Vaise;Lyon 9e Arrondissement;44;16;;Activités, maillage;True;;231;69389;4.800900483241144;45.770476920081926
+10018;Tolstoï / Florian;4, Rue Florian;114 Cours Tolstoï;Villeurbanne;18;21;;itinéraire cyclable;True;;361;69266;4.880722404627738;45.761805190347665
+6025;Place d'Helvétie;Place d'Helvétie;;Lyon 6e Arrondissement;;30;;Lyon 6ème arrondissement;True;;174;69386;4.841974949018818;45.77328256911876
+6024;Tronchet / Anatole France;115, Rue Tronchet;angle rue Anatole France;Lyon 6e Arrondissement;24;10;;Lycée du Parc, piscine Tronchet;True;;49;69386;4.856752177467546;45.77073715464022
+10122;Verdun / Desgrand;Face 17, Rue de Verdun;;Villeurbanne;122;21;;Maillage;True;;319;69266;4.89710682743563;45.78399706883832
+3019;Vivier Merle / Deruelle;8, Boulevard Vivier Merle;;Lyon 3e Arrondissement;;39;;;True;;404;69383;4.857512154766766;45.763254442033094
+10023;Jaurès / Saint Exupéry;54, Rue Jean Jaurès;;Villeurbanne;;25;;;True;Monté;395;69266;4.883437329305556;45.7576238257904
+7051;Guillotière / Veyron;241, Grande Rue de la Guillotière;;Lyon 7e Arrondissement;;30;;;True;Monté;409;69387;4.856343254060282;45.747931255081625
+10012;Zola / France;230, Cours emile Zola;Angle cours Emile Zola;Villeurbanne;12;16;;IUT maison des sports, maison de l'image, centre culturel;True;;197;69266;4.887138393532365;45.76806160405784
+10010;Baudin / Zola;12, Rue Baudin; ;Villeurbanne;49;16;;Collège Les Iris;False;;433;69266;4.905173670535227;45.76505227929627

@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+
+<script src="leaflet.js"> // insertion bibliothèque Leaflet : http://leafletjs.com/ </script>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Map Velov</title>
+    <link rel="icon" href="IM.png" type="image/png"> <!-- Remplacez "logo.png" par le nom de votre image -->
+    <link rel="stylesheet" type="text/css" href="leaflet.css" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+	
+    <script>
+        function afficherPopup() {
+            // Créez une fenêtre pop-up avec les dimensions souhaitées
+            var popupWindow = window.open("", "Popup", "width=400, height=300");
+
+            // Insérez une balise img dans la fenêtre pop-up pour afficher l'image
+            popupWindow.document.write('<img src="pub.png" alt="Image dans la pop-up" width="100%" height="100%">');
+        }
+
+        window.onload = function () {
+            // Appeler la fonction pour afficher la pop-up au chargement de la page
+            afficherPopup();
+        };
+
+        
+    </script>
+    <style>       
+        #map-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+
+        #map { 
+            height: 400px; 
+            width: 400px; 
+            float: left; 
+            margin-left: 20px; 
+            margin-right: 20px;
+        }
+        .decalee {
+          margin-left: 440px;
+        }
+
+        .time-select-container {
+          display: flex;
+          gap: 20px;
+          margin-top : 5px;
+        }
+        .div0{
+          margin-top : 5px;
+        }
+        /*Style du menu d'options*/
+        .div1{
+          background-color: #f0f0f0;
+          padding: 5px;
+          margin-left: 30px;
+          font-family: Arial, sans-serif;
+          color: #000000;
+          border: 1px solid #ccc;
+          border-radius: 10px;
+          box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+          display: inline-block;
+        }
+        /*Style de la div de la carte*/
+        .div2{
+          border: 1px solid #ccc;
+          border-radius: 10px;
+          box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+        }
+		  
+    </style>
+</head>
+<meta charset="UTF-8">
+<body onload="load_commune()">  <!-- Récupération des communes avec le chargement de la page -->
+<button onclick="afficherPopup()">Publicité</button>
+<button onclick="jouerMusiqueEtAfficherPhoto()">Crédit</button>
+
+ <!-- Ajoutez une balise img pour afficher la photo -->
+<img id="photo" width="70%" src="" />
+
+
+    <header>
+        <A target = "_blank" href="https://www.lyon.fr/"><img src="logo.png" alt="Logo" id="logo"></A>
+        <A href="Rick Astley - Never Gonna Give You Up (Official Music Video).mp4"><img src="IM.png" alt="IM" class="IM" id="IM"></A>
+    </header>
+ <h1>Map  Velov</h1>
+ <!-- Div contenant toutes les options-->
+ <div class = "div1">
+  <!-- Menu déroulant pour choisir la commune-->
+ <div>
+ <label for="choix_commune">Sélectionnez une commune :</label>
+ <select id="choix_commune" name="choix_commune"></select>
+ </div>
+ <!-- Menu déroulant pour choisir le type de données-->
+ <div class = "div0">
+ <label for="choix_commune">Sélectionnez le type de données à afficher :</label>
+ <select id="choix_donnee" onchange="select_donnee()" name="choix_donnee">
+  <option value="Velos_disponibles">Vélos disponibles</option>
+  <option value="Stands_disponibles">Stands disponibles</option>
+  <option value="Velos_electriques_disponibles">Vélos électriques disponibles</option>
+  <option value="Velos_mecaniques_disponibles">Vélos mécaniques disponibles</option>
+ </select>
+ </div>
+ <!-- Div pour choisir les horaires et le jour-->
+ <div class="time-select-container">
+  <label for="heureDebut">Heure de début:</label>
+  <select id="heureDebut" onchange="select_temps()" name="heureDebut">
+    <option value="00:00">00:00</option>
+      <option value="01:00">01:00</option>
+      <option value="02:00">02:00</option>
+      <option value="03:00">03:00</option>
+      <option value="04:00">04:00</option>
+      <option value="05:00">05:00</option>
+      <option value="06:00">06:00</option>
+      <option value="07:00">07:00</option>
+      <option value="08:00">08:00</option>
+      <option value="09:00">09:00</option>
+      <option value="10:00">10:00</option>
+      <option value="11:00">11:00</option>
+      <option value="12:00">12:00</option>
+      <option value="13:00">13:00</option>
+      <option value="14:00">14:00</option>
+      <option value="15:00">15:00</option>
+      <option value="16:00">16:00</option>
+      <option value="17:00">17:00</option>
+      <option value="18:00">18:00</option>
+      <option value="19:00">19:00</option>
+      <option value="20:00">20:00</option>
+      <option value="21:00">21:00</option>
+      <option value="22:00">22:00</option>
+      <option value="23:00">23:00</option>
+  </select>
+  <label for="heureFin">Heure de fin:</label>
+  <select id="heureFin" onchange="select_temps()" name="heureFin">
+    <option value="00:00">00:00</option>
+    <option value="01:00">01:00</option>
+    <option value="02:00">02:00</option>
+    <option value="03:00">03:00</option>
+    <option value="04:00">04:00</option>
+    <option value="05:00">05:00</option>
+    <option value="06:00">06:00</option>
+    <option value="07:00">07:00</option>
+    <option value="08:00">08:00</option>
+    <option value="09:00">09:00</option>
+    <option value="10:00">10:00</option>
+    <option value="11:00">11:00</option>
+    <option value="12:00">12:00</option>
+    <option value="13:00">13:00</option>
+    <option value="14:00">14:00</option>
+    <option value="15:00">15:00</option>
+    <option value="16:00">16:00</option>
+    <option value="17:00">17:00</option>
+    <option value="18:00">18:00</option>
+    <option value="19:00">19:00</option>
+    <option value="20:00">20:00</option>
+    <option value="21:00">21:00</option>
+    <option value="22:00">22:00</option>
+    <option value="23:00" selected>23:00</option>
+  </select>
+  <label for="Jour">Jour:</label>
+  <select id="jour" onchange="select_temps()" name="jour">
+    <option value="Tout">Tout</option>
+    <option value="26">26/11/2023</option>
+    <option value="27">27/11/2023</option>
+    <option value="28">28/11/2023</option>
+    <option value="29">29/11/2023</option>
+  </select>
+</div>
+</div>
+<!-- Carte -->
+ <div>
+ <div id="map" style="margin-bottom:1.33em" class = "div2"></div>  
+ <p id="historique"></p>
+ </div>
+ <!-- Emplacement du premier graphe-->
+ <div id="reponse">
+ <p align="center"></p>
+ <img width="70%" src="" />
+ </div>
+ <!-- Emplacement du second graphe-->
+ <div id="reponse2">
+  <p align="center"></p>
+  <img width="70%" src="" class="decalee" />
+  </div>
+</body>
+
+<script>
+// Creation d'une carte dans la balise div "map", et positionne la vue sur un point donné et un niveau de zoom
+var map = L.map('map').setView([45.775,4.83], 11);
+// Ajout d'une couche de dalles OpenStreetMap
+L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+     attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+     }).addTo(map);
+
+var clics = {}; // Stocke le nombre de clics effectués sur un marqueur
+var stations_select_1 = []; // Stocke les stations sur lesquelles 1 clic a été effectué
+var stations_select_2 = []; // De même pour 2 clics
+
+function requete1() {
+  // On actualise le premier graphe si des stations sont sélectionnées
+  if (stations_select_1.length !== 0) {
+    var xhr = new XMLHttpRequest();
+    var image =  document.querySelector('#reponse img'),
+        legende = document.querySelector('#reponse p');
+    xhr.onload = function() {   // fonction callback
+      var data = JSON.parse(this.responseText)
+      image.src = data.img;
+      image.alt = data.title;
+      legende.innerHTML = data.title;
+    };
+    var resultat = '';
+    for (var i = 0; i < stations_select_1.length; i++) {
+      resultat = resultat + '/' + stations_select_1[i];
+    }
+    xhr.open('GET','/historique/'+donnee+'/'+heure1+'/'+heure2+'/'+jour+resultat,true);  // on récupère la courbe par un appel au serveur
+    xhr.send();
+  }
+}
+
+function requete2() {
+  // On actualise le deuxième graphe si des stations sont sélectionnées
+  if (stations_select_2.length !== 0) {
+    var xhr2 = new XMLHttpRequest();
+    var image2 =  document.querySelector('#reponse2 img'),
+        legende2 = document.querySelector('#reponse2 p');
+    xhr2.onload = function() {   // fonction callback
+      var data = JSON.parse(this.responseText)
+      image2.src = data.img;
+      image2.alt = data.title;
+      legende2.innerHTML = data.title;
+    };
+    var resultat = '';
+    for (var i = 0; i < stations_select_2.length; i++) {
+      resultat = resultat + '/' + stations_select_2[i];
+    } 
+    xhr2.open('GET','/somme_historique/'+donnee+'/'+heure1+'/'+heure2+'/'+jour+resultat,true);
+    xhr2.send();
+  }
+}
+
+function OnMarkerClick (e) {
+      // On comptabilise le nombre de clic sur le marqueur e.target
+    if (e.target.idstation in clics) {
+      clics[e.target.idstation] = (clics[e.target.idstation] + 1)%3
+    }
+    else {
+      clics[e.target.idstation] = 1
+    }
+    if (clics[e.target.idstation] == 1) {
+      // On ajoute l'id de la station à la liste contenant les stations sélectionnées par le premier clic
+      stations_select_1.push(e.target.idstation);
+      // On effectue la requête associée au premier clic
+      requete1();
+      // On modifie l'icône du marqueur
+      var newIcon = L.icon({
+        iconUrl: 'images/jaune.png',
+        shadowUrl:"images/marker-shadow.png",
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        tooltipAnchor:[16,-28],
+        shadowSize:[41,41]
+      })
+      e.target.setIcon(newIcon);
+    }
+    else if (clics[e.target.idstation] == 2) {
+      // On retire la station de la liste des stations sélectionnées par le premier clic
+      var indice = stations_select_1.indexOf(e.target.idstation);
+      stations_select_1.splice(indice, 1);
+      // On effectue la requête associée au premier clic pour actualiser le graphe affiché
+      requete1()
+      // On ajoute la station à la liste des stations sélectionnées par le deuxième clic
+      stations_select_2.push(e.target.idstation);
+      // On effectue la requête associée au deuxième clic
+      requete2()
+      // On modifie l'icône du marqueur
+      var newIcon = L.icon({
+        iconUrl: 'images/rouge.png',
+        shadowUrl:"images/marker-shadow.png",
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        tooltipAnchor:[16,-28],
+        shadowSize:[41,41]
+      })
+      e.target.setIcon(newIcon);
+    }
+    else {
+      // On retire la station de la liste des stations sélectionnées par le deuxième clic
+      var indice = stations_select_2.indexOf(e.target.idstation);
+      stations_select_2.splice(indice, 1);
+      // On effectue la requête associée au deuxième clic pour actualiser le graphe affiché 
+      requete2()
+      // On modifie l'icône du marqueur
+      var newIcon = L.icon({
+        iconUrl: 'images/marker-icon.png',
+        shadowUrl:"images/marker-shadow.png",
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        tooltipAnchor:[16,-28],
+        shadowSize:[41,41]
+      })
+      e.target.setIcon(newIcon);
+    }
+}
+
+function load_commune () {
+  var xhr = new XMLHttpRequest();
+  xhr.onload = function() {   // fonction callback
+    // récupération des données renvoyées par le serveur
+  var dat = JSON.parse(this.responseText);
+    // boucle sur les enregistrements renvoyés
+    for ( n = 0; n < dat.length; n++ ) {
+      var select = document.getElementById('choix_commune');
+      var optionElement = document.createElement('option');
+      optionElement.value = dat[n].commune;
+      optionElement.textContent = dat[n].commune;
+      optionElement.addEventListener('click',affiche_stations);
+      select.appendChild(optionElement);
+      };
+    };
+  xhr.open('GET','/commune',true);
+  xhr.send();
+}
+
+var stations_aff = {};
+function affiche_stations() {
+  var selectElement = document.getElementById("choix_commune");
+  var selectedOption = selectElement.options[selectElement.selectedIndex];
+  var xhr = new XMLHttpRequest();
+  xhr.onload = function() {   // fonction callback
+      // récupération des données renvoyées par le serveur
+    var data = JSON.parse(this.responseText);
+    // si la commune était déjà sélectionnée, on supprime tous les marqueurs qui lui sont associés
+    if (selectedOption.value in stations_aff) {
+      for ( i = 0; i < stations_aff[selectedOption.value].length; i++) {
+        map.removeLayer(stations_aff[selectedOption.value][i]);
+        if (stations_select_1.includes(stations_aff[selectedOption.value][i].idstation)) {
+          var indice = stations_select_1.indexOf(stations_aff[selectedOption.value][i].idstation);
+          stations_select_1.splice(indice, 1);
+        }
+        if (stations_select_2.includes(stations_aff[selectedOption.value][i].idstation)) {
+          var indice = stations_select_2.indexOf(stations_aff[selectedOption.value][i].idstation);
+          stations_select_2.splice(indice, 1);
+        }
+      }
+      delete stations_aff[selectedOption.value];
+    }
+    // sinon, on l'ajoute dans le dictionnaire avec pour clés tous les marqueurs qui lui sont associés
+    else {
+      stations_aff[selectedOption.value] = [];
+      // boucle sur les enregistrements renvoyés
+      for ( n = 0; n < data.length; n++ ) {
+        var m = L.marker([data[n].lat,data[n].lon]);
+        m.addTo(map)
+        .bindPopup(data[n].nom)
+        .addEventListener('click',OnMarkerClick)
+        .idstation = data[n].idstation;
+        // Afficher la popup au survol
+        m.on('mouseover', function () {
+          this.openPopup();
+        });
+
+        // Fermer la popup lorsque la souris quitte le marqueur
+        m.on('mouseout', function () {
+            this.closePopup();
+        });
+
+        m.on('click', function () {
+          // Fermez la popup si elle est actuellement ouverte
+          if (this.isPopupOpen()) {
+              this.closePopup();
+          } else {
+              // Ouvrez la popup si elle est actuellement fermée
+              this.openPopup();
+          }
+        })
+        stations_aff[selectedOption.value].push(m);
+        clics[data[n].idstation] = 0;
+      }
+    }
+  }
+  xhr.open('GET','/stations_commune/'+selectedOption.value,true);
+  xhr.send();
+}
+
+// fonction appelée lors du choix du type de donnée
+function select_donnee() {
+  var selectElement = document.getElementById("choix_donnee");
+  var selectedOption = selectElement.options[selectElement.selectedIndex];
+  donnee = selectedOption.value;
+  requete1();
+  requete2();
+}
+
+select_donnee() // On initialise le type de donnée sélectionné
+
+// fonction appelée lors du choix du jour et des heures de début et de fin
+function select_temps() {
+  //On récupère les options sélectionnées dans les menus déroulants
+  var selectElement = document.getElementById("heureDebut");
+  var selectedOption = selectElement.options[selectElement.selectedIndex];
+  heure1 = selectedOption.value;
+  var selectElement = document.getElementById("heureFin");
+  var selectedOption = selectElement.options[selectElement.selectedIndex];
+  heure2 = selectedOption.value;
+  var selectElement = document.getElementById("jour");
+  var selectedOption = selectElement.options[selectElement.selectedIndex];
+  jour = selectedOption.value;
+  actualise_options_affichees();
+  requete1();
+  requete2();
+}
+
+select_temps() // On initialise le jour et les heures sélectionnés
+
+// Fonction appelée à la fin de select_temps(), elle sert à faire en sorte que les options disponibles
+// soient cohérentes entre elles. Par ex : que heure début < heure fin.
+function actualise_options_affichees() {
+  var selectElement = document.getElementById("jour");
+  var selectedOption = selectElement.options[selectElement.selectedIndex];
+  jour = selectedOption.value;
+  if (jour == 'Tout') {
+    var menu = document.getElementById("heureFin")
+    var options = menu.options;
+    for (var i = 0; i < options.length; i++) {
+      if (parseInt(options[i].value.substring(0, 2),10) !== 23) {
+        options[i].style.display = 'none';
+      }
+      else {
+        options[i].style.display = 'list-item';
+        options[i].selected = true;
+        heure2 = '23:00';
+      }
+    }
+    var menu = document.getElementById("heureDebut")
+    var options = menu.options;
+    for (var i = 0; i < options.length; i++) {
+      if (parseInt(options[i].value.substring(0, 2),10) !== 0) {
+        options[i].style.display = 'none';
+      }
+      else {
+        options[i].style.display = 'list-item';
+        options[i].selected = true;
+        heure1 = '00:00';
+      }
+    }
+  }
+  else {
+    var menu = document.getElementById("heureFin")
+    var options = menu.options;
+    for (var i = 0; i < options.length; i++) {
+      if (parseInt(options[i].value.substring(0, 2),10) <= parseInt(heure1.substring(0, 2),10)) {
+        options[i].style.display = 'none';
+      }
+      else {
+        options[i].style.display = 'list-item';
+      }
+    }
+    var menu = document.getElementById("heureDebut")
+    var options = menu.options;
+    for (var i = 0; i < options.length; i++) {
+      if (parseInt(options[i].value.substring(0, 2),10) >= parseInt(heure2.substring(0, 2),10)) {
+        options[i].style.display = 'none';
+      }
+      else {
+        options[i].style.display = 'list-item';
+      }
+    }
+  }
+}
+function jouerMusiqueEtAfficherPhoto() {
+            // Jouer la musique (remplacez le chemin par celui de votre fichier audio)
+            var audio = new Audio('huh.mp3');
+            audio.play();
+
+            // Afficher la photo dans une balise img (remplacez le chemin par celui de votre fichier image)
+            var imageSrc = 'generique.png';
+            var nouvellePage = window.open('');
+            nouvellePage.document.write('<html><head><title>Image</title></head><body><img src="' + imageSrc + '" alt="Votre image"></body></html>');
+        }
+</script>
+</body>
+
+</html>
