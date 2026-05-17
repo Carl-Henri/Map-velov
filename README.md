@@ -31,5 +31,8 @@ Gegout Carl-Henri · Tribout Rémy · Gros Maxime · Cres Raphaël · Marois Vik
 ```bash
 pip install -r requirements.txt
 python serveur.py
-# Then open client/map-velov.html in your browser
 ```
+
+Then open [http://localhost:8080/map-velov.html](http://localhost:8080/map-velov.html) in your browser.
+
+> **Note:** do not open `map-velov.html` directly as a file — the map tiles will be blocked by the browser. Always go through the server URL above.
