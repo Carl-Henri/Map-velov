@@ -9,7 +9,11 @@ Developed as a team project for the **INF-TC3** course at **Centrale Lyon** (202
 ## Features
 
 - **Interactive map** — Leaflet.js map showing Vélov stations across Lyon and surrounding communes; click to toggle station markers per commune
-- **Station details** — click a marker to see station name; select stations to load historical charts
+- **Station selection** — each marker cycles through three states on click:
+  - **Blue** — deselected
+  - **Yellow** (1st click) — station added as an individual curve on the availability chart
+  - **Red** (2nd click) — station added to the cumulative sum chart
+  - **Blue** (3rd click) — deselected again
 - **Historical charts** — visualize availability trends over time for any combination of stations (mechanical bikes, electric bikes, available stands)
 - **Python backend** — lightweight HTTP server querying a local SQLite database of historical records
 
