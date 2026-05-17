@@ -34,5 +34,3 @@ python serveur.py
 ```
 
 Then open [http://localhost:8080/map-velov.html](http://localhost:8080/map-velov.html) in your browser.
-
-> **Note:** do not open `map-velov.html` directly as a file — the map tiles will be blocked by the browser. Always go through the server URL above.
